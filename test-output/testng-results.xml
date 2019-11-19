@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="37253" started-at="2019-11-19T17:46:42 IST" finished-at="2019-11-19T17:47:19 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="37253" started-at="2019-11-19T17:46:42 IST" finished-at="2019-11-19T17:47:19 IST">
+      <class name="com.atmecs.testscripts.TutorialsNinjaHomePage">
+        <test-method status="PASS" signature="browserSelect()[pri:0, instance:com.atmecs.testscripts.TutorialsNinjaHomePage@55b53d44]" name="browserSelect" is-config="true" duration-ms="7109" started-at="2019-11-19T17:46:42 IST" finished-at="2019-11-19T17:46:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSelect -->
+        <test-method status="PASS" signature="openUrl()[pri:0, instance:com.atmecs.testscripts.TutorialsNinjaHomePage@55b53d44]" name="openUrl" is-config="true" duration-ms="7152" started-at="2019-11-19T17:46:49 IST" finished-at="2019-11-19T17:46:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method status="PASS" signature="validateHomePage()[pri:0, instance:com.atmecs.testscripts.TutorialsNinjaHomePage@55b53d44]" name="validateHomePage" is-config="true" duration-ms="229" started-at="2019-11-19T17:46:56 IST" finished-at="2019-11-19T17:46:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePage -->
+        <test-method status="PASS" signature="searchProduct()[pri:0, instance:com.atmecs.testscripts.TutorialsNinjaHomePage@55b53d44]" name="searchProduct" duration-ms="22307" started-at="2019-11-19T17:46:57 IST" finished-at="2019-11-19T17:47:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method status="PASS" signature="browserQuit()[pri:0, instance:com.atmecs.testscripts.TutorialsNinjaHomePage@55b53d44]" name="browserQuit" is-config="true" duration-ms="376" started-at="2019-11-19T17:47:19 IST" finished-at="2019-11-19T17:47:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserQuit -->
+      </class> <!-- com.atmecs.testscripts.TutorialsNinjaHomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

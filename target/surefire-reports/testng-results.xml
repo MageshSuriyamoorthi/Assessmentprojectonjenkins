@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40177" started-at="2019-11-19T17:50:52 IST" finished-at="2019-11-19T17:51:33 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="40177" started-at="2019-11-19T17:50:52 IST" finished-at="2019-11-19T17:51:33 IST">
+      <class name="com.atmecs.testscripts.TutorialsNinjaHomePage">
+        <test-method status="PASS" signature="browserSelect()[pri:0, instance:com.atmecs.testscripts.TutorialsNinjaHomePage@49e5f737]" name="browserSelect" is-config="true" duration-ms="8034" started-at="2019-11-19T17:50:52 IST" finished-at="2019-11-19T17:51:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserSelect -->
+        <test-method status="PASS" signature="openUrl()[pri:0, instance:com.atmecs.testscripts.TutorialsNinjaHomePage@49e5f737]" name="openUrl" is-config="true" duration-ms="7298" started-at="2019-11-19T17:51:00 IST" finished-at="2019-11-19T17:51:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method status="PASS" signature="validateHomePage()[pri:0, instance:com.atmecs.testscripts.TutorialsNinjaHomePage@49e5f737]" name="validateHomePage" is-config="true" duration-ms="64" started-at="2019-11-19T17:51:08 IST" finished-at="2019-11-19T17:51:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePage -->
+        <test-method status="PASS" signature="searchProduct()[pri:0, instance:com.atmecs.testscripts.TutorialsNinjaHomePage@49e5f737]" name="searchProduct" duration-ms="23794" started-at="2019-11-19T17:51:08 IST" finished-at="2019-11-19T17:51:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchProduct -->
+        <test-method status="PASS" signature="browserQuit()[pri:0, instance:com.atmecs.testscripts.TutorialsNinjaHomePage@49e5f737]" name="browserQuit" is-config="true" duration-ms="907" started-at="2019-11-19T17:51:32 IST" finished-at="2019-11-19T17:51:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserQuit -->
+      </class> <!-- com.atmecs.testscripts.TutorialsNinjaHomePage -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+  <suite name="TutorialNinja_HeatClicic_Suite" duration-ms="0" started-at="2019-11-19T17:51:33 IST" finished-at="2019-11-19T17:51:33 IST">
+    <groups>
+    </groups>
+  </suite> <!-- TutorialNinja_HeatClicic_Suite -->
+</testng-results>

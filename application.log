@@ -1,0 +1,2001 @@
+2019-11-11 16:50:47,788  INFO [main] Testbase files:62 - INTERNET EXPLORER DriverInitiated
+2019-11-11 16:50:50,680  INFO [main] Log4j:26 - URL opened
+2019-11-11 16:50:50,753  INFO [main] Log4j:26 - Browser Maximized
+2019-11-11 16:50:55,302  INFO [main] Log4j:26 - Text split action performs
+2019-11-11 16:50:56,946  INFO [main] Config files:38 - Getting Value from an testdata
+2019-11-11 16:50:56,966  INFO [main] Config files:40 - The value is: Viewing Mens
+2019-11-11 16:50:56,966  INFO [main] Config files:46 - Assertion Starts
+2019-11-11 16:50:56,970  INFO [main] Config files:48 - Assertion ends
+2019-11-11 16:50:56,970  INFO [main] Log4j:26 - Click is progressed
+2019-11-11 16:50:57,973  INFO [main] Log4j:26 - click is done
+2019-11-11 16:50:57,973  INFO [main] Log4j:26 - Click is progressed
+2019-11-11 16:50:59,228  INFO [main] Log4j:26 - click is done
+2019-11-11 16:50:59,228  INFO [main] Log4j:26 - Click is progressed
+2019-11-11 16:51:00,456  INFO [main] Log4j:26 - click is done
+2019-11-11 16:51:00,456  INFO [main] Config files:38 - Getting Value from an testdata
+2019-11-11 16:51:00,458  INFO [main] Config files:40 - The value is: Magesh
+2019-11-11 16:51:00,460  INFO [main] Log4j:26 - Entering text into text box
+2019-11-11 16:51:01,407  INFO [main] Log4j:26 - Magesh is entered
+2019-11-11 16:51:01,407  INFO [main] Log4j:26 - Click is progressed
+2019-11-11 16:51:02,823  INFO [main] Log4j:26 - click is done
+2019-11-11 16:51:02,823  INFO [main] Log4j:26 - Click is progressed
+2019-11-11 16:51:03,758  INFO [main] Log4j:26 - click is done
+2019-11-11 16:51:03,758  INFO [main] Log4j:26 -  Getting text from data
+2019-11-11 16:51:04,210  INFO [main] Config files:38 - Getting Value from an testdata
+2019-11-11 16:51:04,214  INFO [main] Config files:40 - The value is: Hawt Like a Habanero Shirt (Men's)
+2019-11-11 16:51:04,215  INFO [main] Config files:46 - Assertion Starts
+2019-11-11 16:51:04,215  INFO [main] Config files:48 - Assertion ends
+2019-11-11 16:51:04,215  INFO [main] Log4j:26 -  Getting text from data
+2019-11-11 16:51:04,605  INFO [main] Config files:38 - Getting Value from an testdata
+2019-11-11 16:51:04,605  INFO [main] Config files:40 - The value is: Shirt Size: M
+2019-11-11 16:51:04,605  INFO [main] Config files:46 - Assertion Starts
+2019-11-11 16:51:04,605  INFO [main] Config files:48 - Assertion ends
+2019-11-11 16:51:04,605  INFO [main] Log4j:26 -  Getting text from data
+2019-11-11 16:51:05,021  INFO [main] Config files:38 - Getting Value from an testdata
+2019-11-11 16:51:05,021  INFO [main] Config files:40 - The value is: Personalized Name: Magesh
+2019-11-11 16:51:05,021  INFO [main] Config files:46 - Assertion Starts
+2019-11-11 16:51:05,021  INFO [main] Config files:48 - Assertion ends
+2019-11-11 16:51:05,021  INFO [main] Log4j:26 -  Getting text from data
+2019-11-11 16:51:05,464  INFO [main] Config files:38 - Getting Value from an testdata
+2019-11-11 16:51:05,469  INFO [main] Config files:40 - The value is: Shirt Color: Red
+2019-11-11 16:51:05,469  INFO [main] Config files:46 - Assertion Starts
+2019-11-11 16:51:05,470  INFO [main] Config files:48 - Assertion ends
+2019-11-11 16:51:05,470  INFO [main] Log4j:26 -  Getting text from data
+2019-11-11 16:51:05,910  INFO [main] Config files:38 - Getting Value from an testdata
+2019-11-11 16:51:05,910  INFO [main] Config files:40 - The value is: $14.99
+2019-11-11 16:51:05,910  INFO [main] Config files:46 - Assertion Starts
+2019-11-11 16:51:05,910  INFO [main] Config files:48 - Assertion ends
+2019-11-11 16:51:05,910  INFO [main] Log4j:26 -  Getting text from data
+2019-11-11 16:51:06,318  INFO [main] Config files:38 - Getting Value from an testdata
+2019-11-11 16:51:06,322  INFO [main] Config files:40 - The value is: $14.99
+2019-11-11 16:51:06,322  INFO [main] Config files:46 - Assertion Starts
+2019-11-11 16:51:06,322  INFO [main] Config files:48 - Assertion ends
+2019-11-11 16:51:06,322  INFO [main] Log4j:26 - Click is progressed
+2019-11-11 16:51:07,178  INFO [main] Log4j:26 - click is done
+2019-11-11 16:51:07,185  INFO [main] Log4j:26 - Entering text into text box
+2019-11-11 16:51:08,285  INFO [main] Log4j:26 - ? is entered
+2019-11-11 16:51:08,285  INFO [main] Config files:38 - Getting Value from an testdata
+2019-11-11 16:51:08,287  INFO [main] Config files:40 - The value is: 3
+2019-11-11 16:51:08,287  INFO [main] Log4j:26 - Entering text into text box
+2019-11-11 16:51:09,113  INFO [main] Log4j:26 - 3 is entered
+2019-11-11 16:51:13,115  INFO [main] Log4j:26 - Click is progressed
+2019-11-11 16:51:14,086  INFO [main] Log4j:26 - click is done
+2019-11-11 16:51:14,086  INFO [main] Log4j:26 -  Getting text from data
+2019-11-11 16:51:14,486  INFO [main] Config files:38 - Getting Value from an testdata
+2019-11-11 16:51:14,490  INFO [main] Config files:40 - The value is: $14.99
+2019-11-11 16:51:14,491  INFO [main] Config files:46 - Assertion Starts
+2019-11-11 16:51:14,491  INFO [main] Config files:48 - Assertion ends
+2019-11-11 16:51:14,491  INFO [main] Log4j:26 -  Getting text from data
+2019-11-11 16:51:14,832  INFO [main] Config files:38 - Getting Value from an testdata
+2019-11-11 16:51:14,832  INFO [main] Config files:40 - The value is: $194.87
+2019-11-11 16:51:14,832  INFO [main] Config files:46 - Assertion Starts
+2019-11-11 16:51:14,832  INFO [main] Config files:48 - Assertion ends
+2019-11-11 16:51:52,164  INFO [main] Testbase files:62 - INTERNET EXPLORER DriverInitiated
+2019-11-11 16:51:54,669  INFO [main] Log4j:26 - URL opened
+2019-11-11 16:51:54,735  INFO [main] Log4j:26 - Browser Maximized
+2019-11-11 16:51:54,803  INFO [main] Log4j:26 - Got title from URL
+2019-11-11 16:51:54,803  INFO [main] Config files:38 - Getting Value from an testdata
+2019-11-11 16:51:54,819  INFO [main] Config files:40 - The value is: The Ninja Store
+2019-11-11 16:51:54,819  INFO [main] Config files:46 - Assertion Starts
+2019-11-11 16:51:54,823  INFO [main] Config files:48 - Assertion ends
+2019-11-11 16:51:54,843  INFO [main] Config files:38 - Getting Value from an testdata
+2019-11-11 16:51:54,843  INFO [main] Config files:40 - The value is: Iphone
+2019-11-11 16:51:54,843  INFO [main] Log4j:26 - Entering text into text box
+2019-11-11 16:51:55,959  INFO [main] Log4j:26 - Iphone is entered
+2019-11-11 16:51:55,959  INFO [main] Log4j:26 - Click is progressed
+2019-11-11 16:51:57,539  INFO [main] Log4j:26 - click is done
+2019-11-11 16:51:57,539  INFO [main] Log4j:26 - Scrolls performed
+2019-11-11 16:51:57,709  INFO [main] Log4j:26 - Scroll done
+2019-11-11 16:51:57,712  INFO [main] Log4j:26 - Click is progressed
+2019-11-11 16:51:59,828  INFO [main] Log4j:26 - click is done
+2019-11-11 16:51:59,828  INFO [main] Config files:38 - Getting Value from an testdata
+2019-11-11 16:51:59,831  INFO [main] Config files:40 - The value is: 2
+2019-11-11 16:51:59,831  INFO [main] Log4j:26 - Click is progressed
+2019-11-11 16:52:00,739  INFO [main] Log4j:26 - click is done
+2019-11-11 16:52:00,743  INFO [main] Log4j:26 - Entering text into text box
+2019-11-11 16:52:01,548  INFO [main] Log4j:26 - ? is entered
+2019-11-11 16:52:03,548  INFO [main] Log4j:26 - Entering text into text box
+2019-11-11 16:52:04,160  INFO [main] Log4j:26 - 2 is entered
+2019-11-11 16:52:04,160  INFO [main] Log4j:26 -  Getting text from data
+2019-11-11 16:52:04,460  INFO [main] Config files:38 - Getting Value from an testdata
+2019-11-11 16:52:04,460  INFO [main] Config files:40 - The value is: Availability: In Stock
+2019-11-11 16:52:04,460  INFO [main] Config files:46 - Assertion Starts
+2019-11-11 16:52:04,460  INFO [main] Config files:48 - Assertion ends
+2019-11-11 16:52:04,464  INFO [main] Log4j:26 -  Getting text from data
+2019-11-11 16:52:04,800  INFO [main] Config files:38 - Getting Value from an testdata
+2019-11-11 16:52:04,800  INFO [main] Config files:40 - The value is: iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-11 16:52:04,800  INFO [main] Config files:46 - Assertion Starts
+2019-11-11 16:52:04,804  INFO [main] Config files:48 - Assertion ends
+2019-11-11 16:52:04,804  INFO [main] Log4j:26 -  Getting text from data
+2019-11-11 16:52:05,146  INFO [main] Config files:38 - Getting Value from an testdata
+2019-11-11 16:52:05,146  INFO [main] Config files:40 - The value is: $123.20
+2019-11-11 16:52:05,146  INFO [main] Config files:46 - Assertion Starts
+2019-11-11 16:52:05,146  INFO [main] Config files:48 - Assertion ends
+2019-11-11 16:52:05,146  INFO [main] Log4j:26 -  Getting text from data
+2019-11-11 16:52:05,518  INFO [main] Config files:38 - Getting Value from an testdata
+2019-11-11 16:52:05,518  INFO [main] Config files:40 - The value is: Ex Tax: $101.00
+2019-11-11 16:52:05,518  INFO [main] Config files:46 - Assertion Starts
+2019-11-11 16:52:05,518  INFO [main] Config files:48 - Assertion ends
+2019-11-11 16:52:05,518  INFO [main] Log4j:26 - Click is progressed
+2019-11-11 16:52:06,398  INFO [main] Log4j:26 - click is done
+2019-11-11 16:52:06,402  INFO [main] Log4j:26 - Entering text into text box
+2019-11-11 16:52:07,012  INFO [main] Config files:38 - Getting Value from an testdata
+2019-11-11 16:52:07,012  INFO [main] Config files:40 - The value is: MacBook Air
+2019-11-11 16:52:07,012  INFO [main] Log4j:26 - Entering text into text box
+2019-11-11 16:52:07,804  INFO [main] Log4j:26 - MacBook Air is entered
+2019-11-11 16:52:07,804  INFO [main] Log4j:26 - Click is progressed
+2019-11-11 16:52:09,429  INFO [main] Log4j:26 - click is done
+2019-11-11 16:52:09,429  INFO [main] Log4j:26 - Scrolls performed
+2019-11-11 16:52:09,544  INFO [main] Log4j:26 - Scroll done
+2019-11-11 16:52:09,544  INFO [main] Log4j:26 - Click is progressed
+2019-11-11 16:52:11,623  INFO [main] Log4j:26 - click is done
+2019-11-11 16:52:11,623  INFO [main] Config files:38 - Getting Value from an testdata
+2019-11-11 16:52:11,625  INFO [main] Config files:40 - The value is: 3
+2019-11-11 16:52:11,626  INFO [main] Log4j:26 - Click is progressed
+2019-11-11 16:52:12,525  INFO [main] Log4j:26 - click is done
+2019-11-11 16:52:12,529  INFO [main] Log4j:26 - Entering text into text box
+2019-11-11 16:52:13,293  INFO [main] Log4j:26 - ? is entered
+2019-11-11 16:52:15,297  INFO [main] Log4j:26 - Entering text into text box
+2019-11-11 16:52:16,023  INFO [main] Log4j:26 - 3 is entered
+2019-11-11 16:52:16,023  INFO [main] Log4j:26 -  Getting text from data
+2019-11-11 16:52:16,467  INFO [main] Config files:38 - Getting Value from an testdata
+2019-11-11 16:52:16,471  INFO [main] Config files:40 - The value is: Availability: In Stock
+2019-11-11 16:52:16,472  INFO [main] Config files:46 - Assertion Starts
+2019-11-11 16:52:16,472  INFO [main] Config files:48 - Assertion ends
+2019-11-11 16:52:16,473  INFO [main] Log4j:26 -  Getting text from data
+2019-11-11 16:52:16,957  INFO [main] Config files:38 - Getting Value from an testdata
+2019-11-11 16:52:16,961  INFO [main] Config files:40 - The value is: MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-11 16:52:16,961  INFO [main] Config files:46 - Assertion Starts
+2019-11-11 16:52:16,961  INFO [main] Config files:48 - Assertion ends
+2019-11-11 16:52:16,961  INFO [main] Log4j:26 -  Getting text from data
+2019-11-11 16:52:17,397  INFO [main] Config files:38 - Getting Value from an testdata
+2019-11-11 16:52:17,401  INFO [main] Config files:40 - The value is: $1,202.00
+2019-11-11 16:52:17,401  INFO [main] Config files:46 - Assertion Starts
+2019-11-11 16:52:17,401  INFO [main] Config files:48 - Assertion ends
+2019-11-11 16:52:17,401  INFO [main] Log4j:26 -  Getting text from data
+2019-11-11 16:52:17,766  INFO [main] Config files:38 - Getting Value from an testdata
+2019-11-11 16:52:17,767  INFO [main] Config files:40 - The value is: Ex Tax: $1,000.00
+2019-11-11 16:52:17,767  INFO [main] Config files:46 - Assertion Starts
+2019-11-11 16:52:17,768  INFO [main] Config files:48 - Assertion ends
+2019-11-11 16:52:17,768  INFO [main] Log4j:26 - Click is progressed
+2019-11-11 16:52:18,588  INFO [main] Log4j:26 - click is done
+2019-11-11 16:52:18,588  INFO [main] Log4j:26 - Click is progressed
+2019-11-11 16:52:20,740  INFO [main] Log4j:26 - click is done
+2019-11-11 16:52:20,740  INFO [main] Log4j:26 - Click is progressed
+2019-11-11 16:52:21,783  INFO [main] Log4j:26 - click is done
+2019-11-11 16:52:25,785  INFO [main] Log4j:26 -  Getting text from data
+2019-11-11 16:52:26,371  INFO [main] Config files:38 - Getting Value from an testdata
+2019-11-11 16:52:26,371  INFO [main] Config files:40 - The value is: $3,852.40
+2019-11-11 16:52:26,371  INFO [main] Config files:46 - Assertion Starts
+2019-11-11 16:52:26,371  INFO [main] Config files:48 - Assertion ends
+2019-11-11 16:52:26,371  INFO [main] Log4j:26 -  Getting text from data
+2019-11-11 16:52:26,711  INFO [main] Config files:38 - Getting Value from an testdata
+2019-11-11 16:52:26,711  INFO [main] Config files:40 - The value is: $3,606.00
+2019-11-11 16:52:26,711  INFO [main] Config files:46 - Assertion Starts
+2019-11-11 16:52:26,711  INFO [main] Config files:48 - Assertion ends
+2019-11-11 16:52:26,711  INFO [main] Log4j:26 - Click is progressed
+2019-11-11 16:52:27,532  INFO [main] Log4j:26 - click is done
+2019-11-11 16:52:30,540  INFO [main] Log4j:26 - Click is progressed
+2019-11-11 16:52:31,442  INFO [main] Log4j:26 - click is done
+2019-11-11 16:52:31,442  INFO [main] Log4j:26 -  Getting text from data
+2019-11-11 16:52:31,970  INFO [main] Config files:38 - Getting Value from an testdata
+2019-11-11 16:52:31,971  INFO [main] Config files:40 - The value is: $246.40
+2019-11-11 16:52:31,971  INFO [main] Config files:46 - Assertion Starts
+2019-11-11 16:52:31,971  INFO [main] Config files:48 - Assertion ends
+2019-11-13 16:45:10,809  INFO [main] Testbase files:62 - INTERNET EXPLORER DriverInitiated
+2019-11-13 16:45:25,964  INFO [main] Log4j:26 - URL opened
+2019-11-13 16:45:26,183  INFO [main] Log4j:26 - Browser Maximized
+2019-11-13 16:45:34,709  INFO [main] Log4j:26 - Text split action performs
+2019-11-13 16:46:22,893  INFO [main] Testbase files:62 - INTERNET EXPLORER DriverInitiated
+2019-11-13 16:46:24,919  INFO [main] Log4j:26 - URL opened
+2019-11-13 16:46:25,002  INFO [main] Log4j:26 - Browser Maximized
+2019-11-13 16:46:29,817  INFO [main] Log4j:26 - Text split action performs
+2019-11-13 16:47:40,980  INFO [main] Testbase files:62 - INTERNET EXPLORER DriverInitiated
+2019-11-13 16:47:43,208  INFO [main] Log4j:26 - URL opened
+2019-11-13 16:47:43,274  INFO [main] Log4j:26 - Browser Maximized
+2019-11-13 16:47:48,432  INFO [main] Log4j:26 - Text split action performs
+2019-11-13 16:50:31,422  INFO [main] Testbase files:62 - INTERNET EXPLORER DriverInitiated
+2019-11-13 16:50:33,608  INFO [main] Log4j:26 - URL opened
+2019-11-13 16:50:33,792  INFO [main] Log4j:26 - Browser Maximized
+2019-11-13 16:50:40,475  INFO [main] Log4j:26 - Text split action performs
+2019-11-13 16:50:40,942  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 16:50:41,098  INFO [main] Config files:59 - The value is: Viewing Mens
+2019-11-13 16:50:41,098  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 16:50:41,166  INFO [main] Config files:67 - Assertion ends
+2019-11-13 16:50:41,170  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 16:50:42,330  INFO [main] Log4j:26 - click is done
+2019-11-13 16:50:42,330  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 16:50:43,216  INFO [main] Log4j:26 - click is done
+2019-11-13 16:50:43,216  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 16:50:44,151  INFO [main] Log4j:26 - click is done
+2019-11-13 16:50:44,151  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 16:50:44,155  INFO [main] Config files:59 - The value is: Magesh
+2019-11-13 16:50:44,158  INFO [main] Log4j:26 - Entering text into text box
+2019-11-13 16:50:45,117  INFO [main] Log4j:26 - Magesh is entered
+2019-11-13 16:50:45,121  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 16:50:46,237  INFO [main] Log4j:26 - click is done
+2019-11-13 16:50:46,237  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 16:50:47,396  INFO [main] Log4j:26 - click is done
+2019-11-13 16:50:47,396  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 16:50:47,766  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 16:50:47,770  INFO [main] Config files:59 - The value is: Hawt Like a Habanero Shirt (Men's)
+2019-11-13 16:50:47,770  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 16:50:47,770  INFO [main] Config files:67 - Assertion ends
+2019-11-13 16:50:47,770  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 16:50:48,162  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 16:50:48,162  INFO [main] Config files:59 - The value is: Shirt Size: M
+2019-11-13 16:50:48,162  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 16:50:48,162  INFO [main] Config files:67 - Assertion ends
+2019-11-13 16:50:48,162  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 16:50:48,530  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 16:50:48,531  INFO [main] Config files:59 - The value is: Personalized Name: Magesh
+2019-11-13 16:50:48,531  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 16:50:48,531  INFO [main] Config files:67 - Assertion ends
+2019-11-13 16:50:48,532  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 16:50:48,953  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 16:50:48,953  INFO [main] Config files:59 - The value is: Shirt Color: Red
+2019-11-13 16:50:48,953  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 16:50:48,957  INFO [main] Config files:67 - Assertion ends
+2019-11-13 16:50:48,957  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 16:50:49,385  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 16:50:49,389  INFO [main] Config files:59 - The value is: $14.99
+2019-11-13 16:50:49,389  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 16:50:49,389  INFO [main] Config files:67 - Assertion ends
+2019-11-13 16:50:49,389  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 16:50:49,745  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 16:50:49,745  INFO [main] Config files:59 - The value is: $14.99
+2019-11-13 16:50:49,749  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 16:50:49,749  INFO [main] Config files:67 - Assertion ends
+2019-11-13 16:50:49,749  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 16:50:50,602  INFO [main] Log4j:26 - click is done
+2019-11-13 16:50:50,618  INFO [main] Log4j:26 - Entering text into text box
+2019-11-13 16:50:51,250  INFO [main] Log4j:26 - ? is entered
+2019-11-13 16:50:51,254  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 16:50:51,255  INFO [main] Config files:59 - The value is: 3
+2019-11-13 16:50:51,255  INFO [main] Log4j:26 - Entering text into text box
+2019-11-13 16:50:51,750  INFO [main] Log4j:26 - 3 is entered
+2019-11-13 16:50:53,754  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 16:50:54,669  INFO [main] Log4j:26 - click is done
+2019-11-13 16:50:54,669  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 16:50:54,989  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 16:50:54,993  INFO [main] Config files:59 - The value is: $14.99
+2019-11-13 16:50:54,993  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 16:50:54,993  INFO [main] Config files:67 - Assertion ends
+2019-11-13 16:50:54,993  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 16:50:55,346  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 16:50:55,350  INFO [main] Config files:59 - The value is: $194.87
+2019-11-13 16:50:55,350  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 16:50:55,350  INFO [main] Config files:67 - Assertion ends
+2019-11-13 17:41:16,409  INFO [main] Testbase files:62 - INTERNET EXPLORER DriverInitiated
+2019-11-13 17:41:24,106  INFO [main] Log4j:26 - URL opened
+2019-11-13 17:41:24,179  INFO [main] Log4j:26 - Browser Maximized
+2019-11-13 17:41:24,313  INFO [main] Log4j:26 - Got title from URL
+2019-11-13 17:41:24,313  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 17:41:24,449  INFO [main] Config files:59 - The value is: The Ninja Store
+2019-11-13 17:41:24,450  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 17:41:24,454  INFO [main] Config files:67 - Assertion ends
+2019-11-13 17:41:24,466  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 17:41:24,469  INFO [main] Config files:59 - The value is: Iphone
+2019-11-13 17:41:24,470  INFO [main] Log4j:26 - Entering text into text box
+2019-11-13 17:41:26,605  INFO [main] Log4j:26 - Iphone is entered
+2019-11-13 17:41:26,606  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 17:41:28,210  INFO [main] Log4j:26 - click is done
+2019-11-13 17:41:28,210  INFO [main] Log4j:26 - Scrolls performed
+2019-11-13 17:41:28,344  INFO [main] Log4j:26 - Scroll done
+2019-11-13 17:41:28,346  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 17:41:32,845  INFO [main] Log4j:26 - click is done
+2019-11-13 17:41:32,846  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 17:41:32,846  INFO [main] Config files:59 - The value is: 2
+2019-11-13 17:41:32,847  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 17:41:33,608  INFO [main] Log4j:26 - click is done
+2019-11-13 17:41:33,622  INFO [main] Log4j:26 - Entering text into text box
+2019-11-13 17:41:34,183  INFO [main] Log4j:26 - ? is entered
+2019-11-13 17:41:36,184  INFO [main] Log4j:26 - Entering text into text box
+2019-11-13 17:41:36,774  INFO [main] Log4j:26 - 2 is entered
+2019-11-13 17:41:36,775  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 17:41:37,156  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 17:41:37,158  INFO [main] Config files:59 - The value is: Availability: In Stock
+2019-11-13 17:41:37,158  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 17:41:37,158  INFO [main] Config files:67 - Assertion ends
+2019-11-13 17:41:37,159  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 17:41:37,460  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 17:41:37,461  INFO [main] Config files:59 - The value is: iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-13 17:41:37,461  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 17:41:37,461  INFO [main] Config files:67 - Assertion ends
+2019-11-13 17:41:37,461  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 17:41:37,777  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 17:41:37,777  INFO [main] Config files:59 - The value is: $123.20
+2019-11-13 17:41:37,778  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 17:41:37,778  INFO [main] Config files:67 - Assertion ends
+2019-11-13 17:41:37,779  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 17:41:38,076  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 17:41:38,077  INFO [main] Config files:59 - The value is: Ex Tax: $101.00
+2019-11-13 17:41:38,077  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 17:41:38,077  INFO [main] Config files:67 - Assertion ends
+2019-11-13 17:41:38,078  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 17:41:38,803  INFO [main] Log4j:26 - click is done
+2019-11-13 17:41:38,804  INFO [main] Log4j:26 - Entering text into text box
+2019-11-13 17:41:39,513  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 17:41:39,514  INFO [main] Config files:59 - The value is: MacBook Air
+2019-11-13 17:41:39,515  INFO [main] Log4j:26 - Entering text into text box
+2019-11-13 17:41:40,306  INFO [main] Log4j:26 - MacBook Air is entered
+2019-11-13 17:41:40,307  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 17:41:41,706  INFO [main] Log4j:26 - click is done
+2019-11-13 17:41:41,707  INFO [main] Log4j:26 - Scrolls performed
+2019-11-13 17:41:41,818  INFO [main] Log4j:26 - Scroll done
+2019-11-13 17:41:41,818  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 17:41:43,863  INFO [main] Log4j:26 - click is done
+2019-11-13 17:41:43,864  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 17:41:43,864  INFO [main] Config files:59 - The value is: 3
+2019-11-13 17:41:43,865  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 17:41:44,582  INFO [main] Log4j:26 - click is done
+2019-11-13 17:41:44,583  INFO [main] Log4j:26 - Entering text into text box
+2019-11-13 17:41:45,185  INFO [main] Log4j:26 - ? is entered
+2019-11-13 17:41:47,185  INFO [main] Log4j:26 - Entering text into text box
+2019-11-13 17:41:47,806  INFO [main] Log4j:26 - 3 is entered
+2019-11-13 17:41:47,806  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 17:41:48,136  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 17:41:48,137  INFO [main] Config files:59 - The value is: Availability: In Stock
+2019-11-13 17:41:48,137  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 17:41:48,137  INFO [main] Config files:67 - Assertion ends
+2019-11-13 17:41:48,137  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 17:41:48,447  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 17:41:48,448  INFO [main] Config files:59 - The value is: MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-13 17:41:48,448  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 17:41:48,448  INFO [main] Config files:67 - Assertion ends
+2019-11-13 17:41:48,448  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 17:41:48,768  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 17:41:48,769  INFO [main] Config files:59 - The value is: $1,202.00
+2019-11-13 17:41:48,769  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 17:41:48,770  INFO [main] Config files:67 - Assertion ends
+2019-11-13 17:41:48,770  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 17:41:49,058  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 17:41:49,059  INFO [main] Config files:59 - The value is: Ex Tax: $1,000.00
+2019-11-13 17:41:49,060  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 17:41:49,060  INFO [main] Config files:67 - Assertion ends
+2019-11-13 17:41:49,060  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 17:41:49,789  INFO [main] Log4j:26 - click is done
+2019-11-13 17:41:49,789  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 17:41:51,667  INFO [main] Log4j:26 - click is done
+2019-11-13 17:41:51,668  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 17:41:52,548  INFO [main] Log4j:26 - click is done
+2019-11-13 17:41:56,550  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 17:41:56,942  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 17:41:56,944  INFO [main] Config files:59 - The value is: $3,852.40
+2019-11-13 17:41:56,945  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 17:41:56,945  INFO [main] Config files:67 - Assertion ends
+2019-11-13 17:41:56,945  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 17:41:57,293  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 17:41:57,294  INFO [main] Config files:59 - The value is: $3,606.00
+2019-11-13 17:41:57,294  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 17:41:57,294  INFO [main] Config files:67 - Assertion ends
+2019-11-13 17:41:57,295  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 17:41:57,977  INFO [main] Log4j:26 - click is done
+2019-11-13 17:42:00,979  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 17:42:01,710  INFO [main] Log4j:26 - click is done
+2019-11-13 17:42:01,710  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 17:42:02,016  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 17:42:02,017  INFO [main] Config files:59 - The value is: $246.40
+2019-11-13 17:42:02,017  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 17:42:02,017  INFO [main] Config files:67 - Assertion ends
+2019-11-13 20:20:13,717  INFO [main] Testbase files:62 - INTERNET EXPLORER DriverInitiated
+2019-11-13 20:20:21,193  INFO [main] Log4j:26 - URL opened
+2019-11-13 20:20:21,283  INFO [main] Log4j:26 - Browser Maximized
+2019-11-13 20:20:28,362  INFO [main] Log4j:26 - Text split action performs
+2019-11-13 20:20:28,846  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 20:20:28,858  INFO [main] Config files:59 - The value is: Viewing Mens
+2019-11-13 20:20:28,862  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 20:20:28,866  INFO [main] Config files:67 - Assertion ends
+2019-11-13 20:20:28,866  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 20:20:29,814  INFO [main] Log4j:26 - click is done
+2019-11-13 20:20:29,814  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 20:20:30,802  INFO [main] Log4j:26 - click is done
+2019-11-13 20:20:30,802  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 20:20:31,766  INFO [main] Log4j:26 - click is done
+2019-11-13 20:20:31,766  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 20:20:31,766  INFO [main] Config files:59 - The value is: Magesh
+2019-11-13 20:20:31,770  INFO [main] Log4j:26 - Entering text into text box
+2019-11-13 20:20:32,637  INFO [main] Log4j:26 - Magesh is entered
+2019-11-13 20:20:32,637  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 20:20:33,752  INFO [main] Log4j:26 - click is done
+2019-11-13 20:20:33,752  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 20:20:34,977  INFO [main] Log4j:26 - click is done
+2019-11-13 20:20:34,981  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 20:20:35,540  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 20:20:35,544  INFO [main] Config files:59 - The value is: Hawt Like a Habanero Shirt (Men's)
+2019-11-13 20:20:35,544  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 20:20:35,544  INFO [main] Config files:67 - Assertion ends
+2019-11-13 20:20:35,544  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 20:20:35,984  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 20:20:35,988  INFO [main] Config files:59 - The value is: Shirt Size: M
+2019-11-13 20:20:35,988  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 20:20:35,988  INFO [main] Config files:67 - Assertion ends
+2019-11-13 20:20:35,988  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 20:20:36,428  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 20:20:36,428  INFO [main] Config files:59 - The value is: Personalized Name: Magesh
+2019-11-13 20:20:36,428  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 20:20:36,428  INFO [main] Config files:67 - Assertion ends
+2019-11-13 20:20:36,432  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 20:20:36,989  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 20:20:36,993  INFO [main] Config files:59 - The value is: Shirt Color: Red
+2019-11-13 20:20:36,993  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 20:20:36,993  INFO [main] Config files:67 - Assertion ends
+2019-11-13 20:20:36,993  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 20:20:37,513  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 20:20:37,513  INFO [main] Config files:59 - The value is: $14.99
+2019-11-13 20:20:37,513  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 20:20:37,513  INFO [main] Config files:67 - Assertion ends
+2019-11-13 20:20:37,513  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 20:20:37,962  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 20:20:37,966  INFO [main] Config files:59 - The value is: $14.99
+2019-11-13 20:20:37,966  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 20:20:37,966  INFO [main] Config files:67 - Assertion ends
+2019-11-13 20:20:37,966  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 20:20:38,941  INFO [main] Log4j:26 - click is done
+2019-11-13 20:20:38,946  INFO [main] Log4j:26 - Entering text into text box
+2019-11-13 20:20:39,750  INFO [main] Log4j:26 - ? is entered
+2019-11-13 20:20:39,750  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 20:20:39,754  INFO [main] Config files:59 - The value is: 3
+2019-11-13 20:20:39,754  INFO [main] Log4j:26 - Entering text into text box
+2019-11-13 20:20:40,646  INFO [main] Log4j:26 - 3 is entered
+2019-11-13 20:20:42,649  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 20:20:43,687  INFO [main] Log4j:26 - click is done
+2019-11-13 20:20:43,687  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 20:20:44,137  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 20:20:44,137  INFO [main] Config files:59 - The value is: $14.99
+2019-11-13 20:20:44,141  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 20:20:44,141  INFO [main] Config files:67 - Assertion ends
+2019-11-13 20:20:44,141  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 20:20:44,529  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 20:20:44,533  INFO [main] Config files:59 - The value is: $194.87
+2019-11-13 20:20:44,533  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 20:20:44,533  INFO [main] Config files:67 - Assertion ends
+2019-11-13 20:20:50,335  INFO [main] Testbase files:62 - INTERNET EXPLORER DriverInitiated
+2019-11-13 20:20:52,579  INFO [main] Log4j:26 - URL opened
+2019-11-13 20:20:52,635  INFO [main] Log4j:26 - Browser Maximized
+2019-11-13 20:20:52,671  INFO [main] Log4j:26 - Got title from URL
+2019-11-13 20:20:52,671  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 20:20:52,675  INFO [main] Config files:59 - The value is: The Ninja Store
+2019-11-13 20:20:52,675  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 20:20:52,675  INFO [main] Config files:67 - Assertion ends
+2019-11-13 20:20:52,675  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 20:20:52,675  INFO [main] Config files:59 - The value is: Iphone
+2019-11-13 20:20:52,679  INFO [main] Log4j:26 - Entering text into text box
+2019-11-13 20:20:53,747  INFO [main] Log4j:26 - Iphone is entered
+2019-11-13 20:20:53,747  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 20:20:55,489  INFO [main] Log4j:26 - click is done
+2019-11-13 20:20:55,493  INFO [main] Log4j:26 - Scrolls performed
+2019-11-13 20:20:55,657  INFO [main] Log4j:26 - Scroll done
+2019-11-13 20:20:55,657  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 20:20:58,376  INFO [main] Log4j:26 - click is done
+2019-11-13 20:20:58,376  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 20:20:58,376  INFO [main] Config files:59 - The value is: 2
+2019-11-13 20:20:58,376  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 20:20:59,337  INFO [main] Log4j:26 - click is done
+2019-11-13 20:20:59,337  INFO [main] Log4j:26 - Entering text into text box
+2019-11-13 20:21:00,233  INFO [main] Log4j:26 - ? is entered
+2019-11-13 20:21:02,235  INFO [main] Log4j:26 - Entering text into text box
+2019-11-13 20:21:03,060  INFO [main] Log4j:26 - 2 is entered
+2019-11-13 20:21:03,060  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 20:21:03,448  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 20:21:03,448  INFO [main] Config files:59 - The value is: Availability: In Stock
+2019-11-13 20:21:03,452  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 20:21:03,452  INFO [main] Config files:67 - Assertion ends
+2019-11-13 20:21:03,452  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 20:21:03,937  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 20:21:03,941  INFO [main] Config files:59 - The value is: iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-13 20:21:03,941  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 20:21:03,941  INFO [main] Config files:67 - Assertion ends
+2019-11-13 20:21:03,941  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 20:21:04,397  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 20:21:04,401  INFO [main] Config files:59 - The value is: $123.20
+2019-11-13 20:21:04,401  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 20:21:04,401  INFO [main] Config files:67 - Assertion ends
+2019-11-13 20:21:04,401  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 20:21:04,801  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 20:21:04,805  INFO [main] Config files:59 - The value is: Ex Tax: $101.00
+2019-11-13 20:21:04,805  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 20:21:04,805  INFO [main] Config files:67 - Assertion ends
+2019-11-13 20:21:04,805  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 20:21:05,755  INFO [main] Log4j:26 - click is done
+2019-11-13 20:21:05,759  INFO [main] Log4j:26 - Entering text into text box
+2019-11-13 20:21:06,507  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 20:21:06,507  INFO [main] Config files:59 - The value is: MacBook Air
+2019-11-13 20:21:06,507  INFO [main] Log4j:26 - Entering text into text box
+2019-11-13 20:21:07,355  INFO [main] Log4j:26 - MacBook Air is entered
+2019-11-13 20:21:07,355  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 20:21:09,135  INFO [main] Log4j:26 - click is done
+2019-11-13 20:21:09,135  INFO [main] Log4j:26 - Scrolls performed
+2019-11-13 20:21:09,267  INFO [main] Log4j:26 - Scroll done
+2019-11-13 20:21:09,271  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 20:21:11,323  INFO [main] Log4j:26 - click is done
+2019-11-13 20:21:11,323  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 20:21:11,323  INFO [main] Config files:59 - The value is: 3
+2019-11-13 20:21:11,323  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 20:21:12,328  INFO [main] Log4j:26 - click is done
+2019-11-13 20:21:12,328  INFO [main] Log4j:26 - Entering text into text box
+2019-11-13 20:21:13,030  INFO [main] Log4j:26 - ? is entered
+2019-11-13 20:21:15,034  INFO [main] Log4j:26 - Entering text into text box
+2019-11-13 20:21:15,598  INFO [main] Log4j:26 - 3 is entered
+2019-11-13 20:21:15,598  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 20:21:15,978  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 20:21:15,978  INFO [main] Config files:59 - The value is: Availability: In Stock
+2019-11-13 20:21:15,982  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 20:21:15,982  INFO [main] Config files:67 - Assertion ends
+2019-11-13 20:21:15,982  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 20:21:16,441  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 20:21:16,445  INFO [main] Config files:59 - The value is: MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-13 20:21:16,445  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 20:21:16,445  INFO [main] Config files:67 - Assertion ends
+2019-11-13 20:21:16,445  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 20:21:16,842  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 20:21:16,842  INFO [main] Config files:59 - The value is: $1,202.00
+2019-11-13 20:21:16,842  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 20:21:16,842  INFO [main] Config files:67 - Assertion ends
+2019-11-13 20:21:16,842  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 20:21:17,278  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 20:21:17,278  INFO [main] Config files:59 - The value is: Ex Tax: $1,000.00
+2019-11-13 20:21:17,278  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 20:21:17,278  INFO [main] Config files:67 - Assertion ends
+2019-11-13 20:21:17,278  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 20:21:18,242  INFO [main] Log4j:26 - click is done
+2019-11-13 20:21:18,242  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 20:21:20,816  INFO [main] Log4j:26 - click is done
+2019-11-13 20:21:20,816  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 20:21:21,824  INFO [main] Log4j:26 - click is done
+2019-11-13 20:21:25,826  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 20:21:26,369  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 20:21:26,369  INFO [main] Config files:59 - The value is: $3,852.40
+2019-11-13 20:21:26,369  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 20:21:26,369  INFO [main] Config files:67 - Assertion ends
+2019-11-13 20:21:26,369  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 20:21:26,868  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 20:21:26,868  INFO [main] Config files:59 - The value is: $3,606.00
+2019-11-13 20:21:26,868  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 20:21:26,868  INFO [main] Config files:67 - Assertion ends
+2019-11-13 20:21:26,868  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 20:21:27,725  INFO [main] Log4j:26 - click is done
+2019-11-13 20:21:30,729  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 20:21:31,527  INFO [main] Log4j:26 - click is done
+2019-11-13 20:21:31,527  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 20:21:32,055  INFO [main] Config files:57 - Getting Value from an testdata
+2019-11-13 20:21:32,055  INFO [main] Config files:59 - The value is: $246.40
+2019-11-13 20:21:32,055  INFO [main] Config files:65 - Assertion Starts
+2019-11-13 20:21:32,055  INFO [main] Config files:67 - Assertion ends
+2019-11-13 20:50:50,441  INFO [main] Testbase files:62 - INTERNET EXPLORER DriverInitiated
+2019-11-13 20:50:53,202  INFO [main] Log4j:26 - URL opened
+2019-11-13 20:50:53,271  INFO [main] Log4j:26 - Browser Maximized
+2019-11-13 20:50:58,950  INFO [main] Log4j:26 - Text split action performs
+2019-11-13 20:51:05,258  INFO [main] Testbase files:62 - INTERNET EXPLORER DriverInitiated
+2019-11-13 20:51:07,822  INFO [main] Log4j:26 - URL opened
+2019-11-13 20:51:07,882  INFO [main] Log4j:26 - Browser Maximized
+2019-11-13 20:51:07,918  INFO [main] Log4j:26 - Got title from URL
+2019-11-13 20:51:07,918  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-13 20:51:07,938  INFO [main] Log4j:26 - The value is: The Ninja Store
+2019-11-13 20:51:07,938  INFO [main] Log4j:26 - Assertion Starts
+2019-11-13 20:51:07,942  INFO [main] Log4j:26 - Assertion ends
+2019-11-13 20:51:07,942  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-13 20:51:07,946  INFO [main] Log4j:26 - The value is: Iphone
+2019-11-13 20:51:07,946  INFO [main] Log4j:26 - Entering text into text box
+2019-11-13 20:51:08,826  INFO [main] Log4j:26 - Iphone is entered
+2019-11-13 20:51:08,830  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 20:51:10,403  INFO [main] Log4j:26 - click is done
+2019-11-13 20:51:10,403  INFO [main] Log4j:26 - Scrolls performed
+2019-11-13 20:51:10,568  INFO [main] Log4j:26 - Scroll done
+2019-11-13 20:51:10,568  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 20:51:13,135  INFO [main] Log4j:26 - click is done
+2019-11-13 20:51:13,135  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-13 20:51:13,135  INFO [main] Log4j:26 - The value is: 2
+2019-11-13 20:51:13,135  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 20:51:14,064  INFO [main] Log4j:26 - click is done
+2019-11-13 20:51:14,072  INFO [main] Log4j:26 - Entering text into text box
+2019-11-13 20:51:15,012  INFO [main] Log4j:26 - ? is entered
+2019-11-13 20:51:17,016  INFO [main] Log4j:26 - Entering text into text box
+2019-11-13 20:51:17,729  INFO [main] Log4j:26 - 2 is entered
+2019-11-13 20:51:17,729  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 20:51:18,049  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-13 20:51:18,054  INFO [main] Log4j:26 - The value is: Availability: In Stock
+2019-11-13 20:51:18,054  INFO [main] Log4j:26 - Assertion Starts
+2019-11-13 20:51:18,054  INFO [main] Log4j:26 - Assertion ends
+2019-11-13 20:51:18,055  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 20:51:18,404  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-13 20:51:18,408  INFO [main] Log4j:26 - The value is: iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-13 20:51:18,408  INFO [main] Log4j:26 - Assertion Starts
+2019-11-13 20:51:18,408  INFO [main] Log4j:26 - Assertion ends
+2019-11-13 20:51:18,408  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 20:51:18,964  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-13 20:51:18,968  INFO [main] Log4j:26 - The value is: $123.20
+2019-11-13 20:51:18,968  INFO [main] Log4j:26 - Assertion Starts
+2019-11-13 20:51:18,968  INFO [main] Log4j:26 - Assertion ends
+2019-11-13 20:51:18,968  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 20:51:19,416  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-13 20:51:19,416  INFO [main] Log4j:26 - The value is: Ex Tax: $101.00
+2019-11-13 20:51:19,416  INFO [main] Log4j:26 - Assertion Starts
+2019-11-13 20:51:19,420  INFO [main] Log4j:26 - Assertion ends
+2019-11-13 20:51:19,420  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 20:51:20,344  INFO [main] Log4j:26 - click is done
+2019-11-13 20:51:20,344  INFO [main] Log4j:26 - Entering text into text box
+2019-11-13 20:51:21,139  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-13 20:51:21,143  INFO [main] Log4j:26 - The value is: MacBook Air
+2019-11-13 20:51:21,143  INFO [main] Log4j:26 - Entering text into text box
+2019-11-13 20:51:21,979  INFO [main] Log4j:26 - MacBook Air is entered
+2019-11-13 20:51:21,979  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 20:51:23,734  INFO [main] Log4j:26 - click is done
+2019-11-13 20:51:23,734  INFO [main] Log4j:26 - Scrolls performed
+2019-11-13 20:51:23,914  INFO [main] Log4j:26 - Scroll done
+2019-11-13 20:51:23,914  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 20:51:26,417  INFO [main] Log4j:26 - click is done
+2019-11-13 20:51:26,417  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-13 20:51:26,421  INFO [main] Log4j:26 - The value is: 3
+2019-11-13 20:51:26,421  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 20:51:27,424  INFO [main] Log4j:26 - click is done
+2019-11-13 20:51:27,424  INFO [main] Log4j:26 - Entering text into text box
+2019-11-13 20:51:28,120  INFO [main] Log4j:26 - ? is entered
+2019-11-13 20:51:30,126  INFO [main] Log4j:26 - Entering text into text box
+2019-11-13 20:51:30,833  INFO [main] Log4j:26 - 3 is entered
+2019-11-13 20:51:30,833  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 20:51:31,181  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-13 20:51:31,181  INFO [main] Log4j:26 - The value is: Availability: In Stock
+2019-11-13 20:51:31,181  INFO [main] Log4j:26 - Assertion Starts
+2019-11-13 20:51:31,181  INFO [main] Log4j:26 - Assertion ends
+2019-11-13 20:51:31,181  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 20:51:31,476  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-13 20:51:31,480  INFO [main] Log4j:26 - The value is: MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-13 20:51:31,480  INFO [main] Log4j:26 - Assertion Starts
+2019-11-13 20:51:31,480  INFO [main] Log4j:26 - Assertion ends
+2019-11-13 20:51:31,480  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 20:51:31,792  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-13 20:51:31,792  INFO [main] Log4j:26 - The value is: $1,202.00
+2019-11-13 20:51:31,792  INFO [main] Log4j:26 - Assertion Starts
+2019-11-13 20:51:31,792  INFO [main] Log4j:26 - Assertion ends
+2019-11-13 20:51:31,792  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 20:51:32,131  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-13 20:51:32,131  INFO [main] Log4j:26 - The value is: Ex Tax: $1,000.00
+2019-11-13 20:51:32,135  INFO [main] Log4j:26 - Assertion Starts
+2019-11-13 20:51:32,135  INFO [main] Log4j:26 - Assertion ends
+2019-11-13 20:51:32,135  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 20:51:33,035  INFO [main] Log4j:26 - click is done
+2019-11-13 20:51:33,035  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 20:51:35,031  INFO [main] Log4j:26 - click is done
+2019-11-13 20:51:35,031  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 20:51:36,061  INFO [main] Log4j:26 - click is done
+2019-11-13 20:51:40,065  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 20:51:40,570  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-13 20:51:40,570  INFO [main] Log4j:26 - The value is: $3,852.40
+2019-11-13 20:51:40,570  INFO [main] Log4j:26 - Assertion Starts
+2019-11-13 20:51:40,570  INFO [main] Log4j:26 - Assertion ends
+2019-11-13 20:51:40,570  INFO [main] Log4j:26 -  Getting text from data
+2019-11-13 20:51:41,006  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-13 20:51:41,010  INFO [main] Log4j:26 - The value is: $3,606.00
+2019-11-13 20:51:41,010  INFO [main] Log4j:26 - Assertion Starts
+2019-11-13 20:51:41,010  INFO [main] Log4j:26 - Assertion ends
+2019-11-13 20:51:41,010  INFO [main] Log4j:26 - Click is progressed
+2019-11-13 20:51:41,930  INFO [main] Log4j:26 - click is done
+2019-11-13 20:51:44,931  INFO [main] Log4j:26 - Click is progressed
+2019-11-14 12:22:50,968  INFO [main] config files:62 - INTERNET EXPLORER DriverInitiated
+2019-11-14 12:22:52,652  INFO [main] Log4j:26 - URL opened
+2019-11-14 12:22:52,704  INFO [main] Log4j:26 - Browser Maximized
+2019-11-14 12:22:52,705  INFO [main] Log4j:26 - The Url has opened in the driver and it has been maximized
+2019-11-14 12:22:53,729  INFO [main] Log4j:26 - Click is progressed
+2019-11-14 12:22:53,729  INFO [main] Log4j:26 - Give correct locator
+2019-11-14 12:25:18,433  INFO [main] config files:62 - INTERNET EXPLORER DriverInitiated
+2019-11-14 12:25:20,132  INFO [main] Log4j:26 - URL opened
+2019-11-14 12:25:20,179  INFO [main] Log4j:26 - Browser Maximized
+2019-11-14 12:25:20,179  INFO [main] Log4j:26 - The Url has opened in the driver and it has been maximized
+2019-11-14 12:25:20,912  INFO [main] Log4j:26 - Click is progressed
+2019-11-14 12:25:20,912  INFO [main] Log4j:26 - Give correct locator
+2019-11-14 12:27:09,515  INFO [main] config files:62 - INTERNET EXPLORER DriverInitiated
+2019-11-14 12:27:11,030  INFO [main] Log4j:26 - URL opened
+2019-11-14 12:27:11,107  INFO [main] Log4j:26 - Browser Maximized
+2019-11-14 12:27:11,108  INFO [main] Log4j:26 - The Url has opened in the driver and it has been maximized
+2019-11-14 12:27:24,417  INFO [main] Log4j:26 - Text split action performs
+2019-11-14 12:27:24,635  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-14 12:27:24,635  INFO [main] Log4j:26 - The value is: row 1 or column -1 does not exist  in xls
+2019-11-14 12:27:24,635  INFO [main] Log4j:26 - Assertion Starts
+2019-11-14 12:29:30,263  INFO [main] config files:62 - INTERNET EXPLORER DriverInitiated
+2019-11-14 12:29:32,130  INFO [main] Log4j:26 - URL opened
+2019-11-14 12:29:32,193  INFO [main] Log4j:26 - Browser Maximized
+2019-11-14 12:29:32,193  INFO [main] Log4j:26 - The Url has opened in the driver and it has been maximized
+2019-11-14 12:29:45,010  INFO [main] Log4j:26 - Text split action performs
+2019-11-14 12:29:45,259  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-14 12:29:45,259  INFO [main] Log4j:26 - The value is: row 1 or column -1 does not exist  in xls
+2019-11-14 12:29:45,260  INFO [main] Log4j:26 - Assertion Starts
+2019-11-14 12:34:41,659  INFO [main] config files:62 - INTERNET EXPLORER DriverInitiated
+2019-11-14 12:34:43,243  INFO [main] Log4j:26 - URL opened
+2019-11-14 12:34:43,304  INFO [main] Log4j:26 - Browser Maximized
+2019-11-14 12:34:43,304  INFO [main] Log4j:26 - The Url has opened in the driver and it has been maximized
+2019-11-14 12:34:55,393  INFO [main] Log4j:26 - Text split action performs
+2019-11-14 12:34:55,640  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-14 12:34:55,656  INFO [main] Log4j:26 - The value is: Viewing Mens
+2019-11-14 12:34:55,656  INFO [main] Log4j:26 - Assertion Starts
+2019-11-14 12:34:55,656  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-14 12:34:55,656  INFO [main] Log4j:26 - Click is progressed
+2019-11-14 12:34:56,540  INFO [main] Log4j:26 - click is done
+2019-11-14 12:34:56,540  INFO [main] Log4j:26 - Click is progressed
+2019-11-14 12:34:57,248  INFO [main] Log4j:26 - click is done
+2019-11-14 12:34:57,249  INFO [main] Log4j:26 - Click is progressed
+2019-11-14 12:34:58,609  INFO [main] Log4j:26 - click is done
+2019-11-14 12:34:58,609  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-14 12:34:58,620  INFO [main] Log4j:26 - The value is: Magesh
+2019-11-14 12:34:58,620  INFO [main] Log4j:26 - Entering text into text box
+2019-11-14 12:34:59,224  INFO [main] Log4j:26 - Magesh is entered
+2019-11-14 12:34:59,224  INFO [main] Log4j:26 - Click is progressed
+2019-11-14 12:34:59,818  INFO [main] Log4j:26 - click is done
+2019-11-14 12:34:59,818  INFO [main] Log4j:26 - Click is progressed
+2019-11-14 12:35:00,454  INFO [main] Log4j:26 - org.openqa.selenium.ElementClickInterceptedException: Element not clickable at point (1101,34). Other element would receive the click: <div class="simplemodal-overlay" id="simplemodal-overlay" style="left: 0px; top: 0px; width: 1349px; height: 1395px; position: fixed; z-index: 1001; opacity: 0.5;"></div>
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-084', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: true, ignoreZoomSetting: false, initialBrowserUrl: , nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 1eb727b5-7b69-4411-a35d-4d7bc8393c9barose
+2019-11-14 12:35:00,454  INFO [main] Log4j:26 - click is done
+2019-11-14 12:35:00,454  INFO [main] Log4j:26 -  Getting text from data
+2019-11-14 12:39:17,933  INFO [main] config files:62 - INTERNET EXPLORER DriverInitiated
+2019-11-14 12:39:19,532  INFO [main] Log4j:26 - URL opened
+2019-11-14 12:39:19,582  INFO [main] Log4j:26 - Browser Maximized
+2019-11-14 12:39:19,582  INFO [main] Log4j:26 - The Url has opened in the driver and it has been maximized
+2019-11-14 12:39:31,802  INFO [main] Log4j:26 - Text split action performs
+2019-11-14 12:39:32,028  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-14 12:39:32,044  INFO [main] Log4j:26 - The value is: Viewing Mens
+2019-11-14 12:39:32,044  INFO [main] Log4j:26 - Assertion Starts
+2019-11-14 12:39:32,044  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-14 12:39:32,044  INFO [main] Log4j:26 - Click is progressed
+2019-11-14 12:39:32,626  INFO [main] Log4j:26 - click is done
+2019-11-14 12:39:32,627  INFO [main] Log4j:26 - Click is progressed
+2019-11-14 12:39:33,519  INFO [main] Log4j:26 - click is done
+2019-11-14 12:39:33,519  INFO [main] Log4j:26 - Click is progressed
+2019-11-14 12:39:34,439  INFO [main] Log4j:26 - click is done
+2019-11-14 12:39:34,439  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-14 12:39:34,439  INFO [main] Log4j:26 - The value is: Magesh
+2019-11-14 12:39:34,439  INFO [main] Log4j:26 - Entering text into text box
+2019-11-14 12:39:34,970  INFO [main] Log4j:26 - Magesh is entered
+2019-11-14 12:39:34,970  INFO [main] Log4j:26 - Click is progressed
+2019-11-14 12:39:35,576  INFO [main] Log4j:26 - click is done
+2019-11-14 12:39:35,576  INFO [main] Log4j:26 - Click is progressed
+2019-11-14 12:39:36,562  INFO [main] Log4j:26 - click is done
+2019-11-14 12:39:36,562  INFO [main] Log4j:26 -  Getting text from data
+2019-11-14 12:39:36,936  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-14 12:39:36,936  INFO [main] Log4j:26 - The value is: Hawt Like a Habanero Shirt (Men's)
+2019-11-14 12:39:36,951  INFO [main] Log4j:26 - Assertion Starts
+2019-11-14 12:39:36,951  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-14 12:39:36,951  INFO [main] Log4j:26 -  Getting text from data
+2019-11-14 12:39:37,186  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-14 12:39:37,186  INFO [main] Log4j:26 - The value is: Shirt Size: M
+2019-11-14 12:39:37,186  INFO [main] Log4j:26 - Assertion Starts
+2019-11-14 12:39:37,186  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-14 12:39:37,186  INFO [main] Log4j:26 -  Getting text from data
+2019-11-14 12:39:37,420  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-14 12:39:37,420  INFO [main] Log4j:26 - The value is: Personalized Name: Magesh
+2019-11-14 12:39:37,420  INFO [main] Log4j:26 - Assertion Starts
+2019-11-14 12:39:37,420  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-14 12:39:37,420  INFO [main] Log4j:26 -  Getting text from data
+2019-11-14 12:39:37,670  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-14 12:39:37,682  INFO [main] Log4j:26 - The value is: Shirt Color: Red
+2019-11-14 12:39:37,682  INFO [main] Log4j:26 - Assertion Starts
+2019-11-14 12:39:37,682  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-14 12:39:37,682  INFO [main] Log4j:26 -  Getting text from data
+2019-11-14 12:39:37,902  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-14 12:39:37,902  INFO [main] Log4j:26 - The value is: $14.99
+2019-11-14 12:39:37,902  INFO [main] Log4j:26 - Assertion Starts
+2019-11-14 12:39:37,902  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-14 12:39:37,902  INFO [main] Log4j:26 -  Getting text from data
+2019-11-14 12:39:38,136  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-14 12:39:38,136  INFO [main] Log4j:26 - The value is: $14.99
+2019-11-14 12:39:38,136  INFO [main] Log4j:26 - Assertion Starts
+2019-11-14 12:39:38,136  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-14 12:39:38,136  INFO [main] Log4j:26 - Click is progressed
+2019-11-14 12:39:38,768  INFO [main] Log4j:26 - click is done
+2019-11-14 12:39:38,774  INFO [main] Log4j:26 - Entering text into text box
+2019-11-14 12:39:39,297  INFO [main] Log4j:26 - ? is entered
+2019-11-14 12:39:39,297  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-14 12:39:39,297  INFO [main] Log4j:26 - The value is: 3
+2019-11-14 12:39:39,297  INFO [main] Log4j:26 - Entering text into text box
+2019-11-14 12:39:39,766  INFO [main] Log4j:26 - 3 is entered
+2019-11-14 12:39:41,773  INFO [main] Log4j:26 - Click is progressed
+2019-11-14 12:39:42,397  INFO [main] Log4j:26 - click is done
+2019-11-14 12:39:42,398  INFO [main] Log4j:26 -  Getting text from data
+2019-11-14 12:39:42,648  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-14 12:39:42,649  INFO [main] Log4j:26 - The value is: $14.99
+2019-11-14 12:39:42,650  INFO [main] Log4j:26 - Assertion Starts
+2019-11-14 12:39:42,650  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-14 12:39:42,650  INFO [main] Log4j:26 -  Getting text from data
+2019-11-14 12:39:42,882  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-14 12:39:42,883  INFO [main] Log4j:26 - The value is: $194.87
+2019-11-14 12:39:42,883  INFO [main] Log4j:26 - Assertion Starts
+2019-11-14 12:39:42,883  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-15 11:58:49,247  INFO [main] config files:62 - INTERNET EXPLORER DriverInitiated
+2019-11-15 11:58:59,094  INFO [main] Log4j:26 - URL opened
+2019-11-15 11:58:59,146  INFO [main] Log4j:26 - Browser Maximized
+2019-11-15 11:58:59,146  INFO [main] Log4j:26 - The Url has opened in the driver and it has been maximized
+2019-11-15 11:59:13,615  INFO [main] Log4j:26 - Traversing to merchandise tab and 
+2019-11-15 11:59:13,615  INFO [main] Log4j:26 - Text split action performs
+2019-11-15 11:59:13,965  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-15 11:59:13,994  INFO [main] Log4j:26 - The value is: Viewing Mens
+2019-11-15 11:59:13,994  INFO [main] Log4j:26 - Assertion Starts
+2019-11-15 11:59:13,994  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-15 11:59:13,994  INFO [main] Log4j:26 - Click is progressed
+2019-11-15 11:59:14,930  INFO [main] Log4j:26 - click is done
+2019-11-15 11:59:14,930  INFO [main] Log4j:26 - Click is progressed
+2019-11-15 11:59:15,760  INFO [main] Log4j:26 - click is done
+2019-11-15 11:59:15,760  INFO [main] Log4j:26 - Click is progressed
+2019-11-15 11:59:16,996  INFO [main] Log4j:26 - click is done
+2019-11-15 11:59:17,012  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-15 11:59:17,015  INFO [main] Log4j:26 - The value is: Magesh
+2019-11-15 11:59:17,015  INFO [main] Log4j:26 - Entering text into text box
+2019-11-15 11:59:17,875  INFO [main] Log4j:26 - Magesh is entered
+2019-11-15 11:59:17,875  INFO [main] Log4j:26 - Click is progressed
+2019-11-15 11:59:18,871  INFO [main] Log4j:26 - click is done
+2019-11-15 11:59:18,871  INFO [main] Log4j:26 - Click is progressed
+2019-11-15 11:59:19,881  INFO [main] Log4j:26 - click is done
+2019-11-15 11:59:19,881  INFO [main] Log4j:26 -  Getting text from data
+2019-11-15 11:59:20,310  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-15 11:59:20,310  INFO [main] Log4j:26 - The value is: Hawt Like a Habanero Shirt (Men's)
+2019-11-15 11:59:20,310  INFO [main] Log4j:26 - Assertion Starts
+2019-11-15 11:59:20,326  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-15 11:59:20,326  INFO [main] Log4j:26 -  Getting text from data
+2019-11-15 11:59:20,698  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-15 11:59:20,698  INFO [main] Log4j:26 - The value is: Shirt Size: M
+2019-11-15 11:59:20,698  INFO [main] Log4j:26 - Assertion Starts
+2019-11-15 11:59:20,698  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-15 11:59:20,698  INFO [main] Log4j:26 -  Getting text from data
+2019-11-15 11:59:20,932  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-15 11:59:20,942  INFO [main] Log4j:26 - The value is: Personalized Name: Magesh
+2019-11-15 11:59:20,942  INFO [main] Log4j:26 - Assertion Starts
+2019-11-15 11:59:20,942  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-15 11:59:20,943  INFO [main] Log4j:26 -  Getting text from data
+2019-11-15 11:59:21,178  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-15 11:59:21,178  INFO [main] Log4j:26 - The value is: Shirt Color: Red
+2019-11-15 11:59:21,178  INFO [main] Log4j:26 - Assertion Starts
+2019-11-15 11:59:21,178  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-15 11:59:21,178  INFO [main] Log4j:26 -  Getting text from data
+2019-11-15 11:59:21,412  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-15 11:59:21,412  INFO [main] Log4j:26 - The value is: $14.99
+2019-11-15 11:59:21,412  INFO [main] Log4j:26 - Assertion Starts
+2019-11-15 11:59:21,412  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-15 11:59:21,412  INFO [main] Log4j:26 -  Getting text from data
+2019-11-15 11:59:21,662  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-15 11:59:21,662  INFO [main] Log4j:26 - The value is: $14.99
+2019-11-15 11:59:21,662  INFO [main] Log4j:26 - Assertion Starts
+2019-11-15 11:59:21,662  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-15 11:59:21,662  INFO [main] Log4j:26 - Click is progressed
+2019-11-15 11:59:22,327  INFO [main] Log4j:26 - click is done
+2019-11-15 11:59:22,359  INFO [main] Log4j:26 - Entering text into text box
+2019-11-15 11:59:23,280  INFO [main] Log4j:26 - ? is entered
+2019-11-15 11:59:23,648  INFO [main] Log4j:26 - Entering text into text box
+2019-11-15 12:04:41,813  INFO [main] config files:62 - INTERNET EXPLORER DriverInitiated
+2019-11-15 12:04:43,461  INFO [main] Log4j:26 - URL opened
+2019-11-15 12:04:43,521  INFO [main] Log4j:26 - Browser Maximized
+2019-11-15 12:04:43,521  INFO [main] Log4j:26 - The Url has opened in the driver and it has been maximized
+2019-11-15 12:04:57,018  INFO [main] Log4j:26 - Traversing to merchandise tab and 
+2019-11-15 12:04:57,018  INFO [main] Log4j:26 - Text split action performs
+2019-11-15 12:04:58,063  INFO [main] Log4j:26 - Assertion Starts
+2019-11-15 12:04:58,078  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-15 12:04:58,078  INFO [main] Log4j:26 - Click is progressed
+2019-11-15 12:04:58,797  INFO [main] Log4j:26 - click is done
+2019-11-15 12:04:58,797  INFO [main] Log4j:26 - Click is progressed
+2019-11-15 12:05:00,388  INFO [main] Log4j:26 - click is done
+2019-11-15 12:05:00,392  INFO [main] Log4j:26 - Click is progressed
+2019-11-15 12:05:01,699  INFO [main] Log4j:26 - click is done
+2019-11-15 12:05:01,699  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-15 12:05:01,723  INFO [main] Log4j:26 - The value is: Magesh
+2019-11-15 12:05:01,723  INFO [main] Log4j:26 - Entering text into text box
+2019-11-15 12:05:02,721  INFO [main] Log4j:26 - Magesh is entered
+2019-11-15 12:05:02,725  INFO [main] Log4j:26 - Click is progressed
+2019-11-15 12:05:03,724  INFO [main] Log4j:26 - click is done
+2019-11-15 12:05:03,724  INFO [main] Log4j:26 - Click is progressed
+2019-11-15 12:05:04,828  INFO [main] Log4j:26 - org.openqa.selenium.ElementClickInterceptedException: Element not clickable at point (1101,34). Other element would receive the click: <div class="simplemodal-overlay" id="simplemodal-overlay" style="left: 0px; top: 0px; width: 1349px; height: 1395px; position: fixed; z-index: 1001; opacity: 0.5;"></div>
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'ATMECSINLT-084', ip: '192.168.137.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_221'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities {acceptInsecureCerts: false, browserName: internet explorer, browserVersion: 11, javascriptEnabled: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), se:ieOptions: {browserAttachTimeout: 0, elementScrollBehavior: 0, enablePersistentHover: true, ie.browserCommandLineSwitches: , ie.ensureCleanSession: false, ie.fileUploadDialogTimeout: 3000, ie.forceCreateProcessApi: false, ignoreProtectedModeSettings: true, ignoreZoomSetting: false, initialBrowserUrl: , nativeEvents: true, requireWindowFocus: false}, setWindowRect: true, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 98cd4ca5-6afc-44eb-a6d2-30bb2c03f838arose
+2019-11-15 12:05:04,841  INFO [main] Log4j:26 - click is done
+2019-11-15 12:05:04,842  INFO [main] Log4j:26 -  Getting text from data
+2019-11-15 12:06:26,756  INFO [main] config files:62 - INTERNET EXPLORER DriverInitiated
+2019-11-15 12:06:28,279  INFO [main] Log4j:26 - URL opened
+2019-11-15 12:06:28,347  INFO [main] Log4j:26 - Browser Maximized
+2019-11-15 12:06:28,347  INFO [main] Log4j:26 - The Url has opened in the driver and it has been maximized
+2019-11-15 12:06:41,868  INFO [main] Log4j:26 - Traversing to merchandise tab and 
+2019-11-15 12:06:41,868  INFO [main] Log4j:26 - Text split action performs
+2019-11-15 12:06:42,591  INFO [main] Log4j:26 - Assertion Starts
+2019-11-15 12:06:42,593  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-15 12:06:42,593  INFO [main] Log4j:26 - Click is progressed
+2019-11-15 12:06:43,541  INFO [main] Log4j:26 - click is done
+2019-11-15 12:06:43,541  INFO [main] Log4j:26 - Click is progressed
+2019-11-15 12:06:44,814  INFO [main] Log4j:26 - click is done
+2019-11-15 12:06:44,818  INFO [main] Log4j:26 - Click is progressed
+2019-11-15 12:06:45,953  INFO [main] Log4j:26 - click is done
+2019-11-15 12:06:45,953  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-15 12:06:45,980  INFO [main] Log4j:26 - The value is: Magesh
+2019-11-15 12:06:45,980  INFO [main] Log4j:26 - Entering text into text box
+2019-11-15 12:06:46,808  INFO [main] Log4j:26 - Magesh is entered
+2019-11-15 12:06:46,808  INFO [main] Log4j:26 - Click is progressed
+2019-11-15 12:06:47,574  INFO [main] Log4j:26 - click is done
+2019-11-15 12:06:47,574  INFO [main] Log4j:26 - Click is progressed
+2019-11-15 12:06:48,621  INFO [main] Log4j:26 - click is done
+2019-11-15 12:06:48,621  INFO [main] Log4j:26 -  Getting text from data
+2019-11-15 12:06:49,042  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-15 12:06:49,042  INFO [main] Log4j:26 - The value is: Hawt Like a Habanero Shirt (Men's)
+2019-11-15 12:06:49,042  INFO [main] Log4j:26 - Assertion Starts
+2019-11-15 12:06:49,042  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-15 12:06:49,042  INFO [main] Log4j:26 -  Getting text from data
+2019-11-15 12:06:49,276  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-15 12:06:49,276  INFO [main] Log4j:26 - The value is: Shirt Size: M
+2019-11-15 12:06:49,276  INFO [main] Log4j:26 - Assertion Starts
+2019-11-15 12:06:49,276  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-15 12:06:49,276  INFO [main] Log4j:26 -  Getting text from data
+2019-11-15 12:06:49,526  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-15 12:06:49,526  INFO [main] Log4j:26 - The value is: Personalized Name: Magesh
+2019-11-15 12:06:49,526  INFO [main] Log4j:26 - Assertion Starts
+2019-11-15 12:06:49,526  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-15 12:06:49,526  INFO [main] Log4j:26 -  Getting text from data
+2019-11-15 12:06:49,776  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-15 12:06:49,789  INFO [main] Log4j:26 - The value is: Shirt Color: Red
+2019-11-15 12:06:49,789  INFO [main] Log4j:26 - Assertion Starts
+2019-11-15 12:06:49,790  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-15 12:06:49,790  INFO [main] Log4j:26 -  Getting text from data
+2019-11-15 12:06:50,025  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-15 12:06:50,025  INFO [main] Log4j:26 - The value is: $14.99
+2019-11-15 12:06:50,025  INFO [main] Log4j:26 - Assertion Starts
+2019-11-15 12:06:50,025  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-15 12:06:50,025  INFO [main] Log4j:26 -  Getting text from data
+2019-11-15 12:06:50,275  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-15 12:06:50,275  INFO [main] Log4j:26 - The value is: $14.99
+2019-11-15 12:06:50,275  INFO [main] Log4j:26 - Assertion Starts
+2019-11-15 12:06:50,275  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-15 12:06:50,275  INFO [main] Log4j:26 - Click is progressed
+2019-11-15 12:06:51,099  INFO [main] Log4j:26 - click is done
+2019-11-15 12:06:51,105  INFO [main] Log4j:26 - Entering text into text box
+2019-11-15 12:06:51,871  INFO [main] Log4j:26 - ? is entered
+2019-11-15 12:06:51,939  INFO [main] Log4j:26 - Entering text into text box
+2019-11-15 12:06:52,763  INFO [main] Log4j:26 - Personalized Name: Magesh is entered
+2019-11-15 12:06:54,767  INFO [main] Log4j:26 - Click is progressed
+2019-11-15 12:06:56,352  INFO [main] Log4j:26 - click is done
+2019-11-15 12:06:56,352  INFO [main] Log4j:26 -  Getting text from data
+2019-11-15 12:07:48,027  INFO [main] config files:62 - INTERNET EXPLORER DriverInitiated
+2019-11-15 12:07:49,621  INFO [main] Log4j:26 - URL opened
+2019-11-15 12:07:49,674  INFO [main] Log4j:26 - Browser Maximized
+2019-11-15 12:07:49,674  INFO [main] Log4j:26 - The Url has opened in the driver and it has been maximized
+2019-11-15 12:08:02,410  INFO [main] Log4j:26 - Traversing to merchandise tab and 
+2019-11-15 12:08:02,410  INFO [main] Log4j:26 - Text split action performs
+2019-11-15 12:08:03,166  INFO [main] Log4j:26 - Assertion Starts
+2019-11-15 12:08:03,170  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-15 12:08:03,170  INFO [main] Log4j:26 - Click is progressed
+2019-11-15 12:08:03,862  INFO [main] Log4j:26 - click is done
+2019-11-15 12:08:03,862  INFO [main] Log4j:26 - Click is progressed
+2019-11-15 12:08:04,901  INFO [main] Log4j:26 - click is done
+2019-11-15 12:08:04,901  INFO [main] Log4j:26 - Click is progressed
+2019-11-15 12:08:06,160  INFO [main] Log4j:26 - click is done
+2019-11-15 12:08:06,160  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-15 12:08:06,178  INFO [main] Log4j:26 - The value is: Magesh
+2019-11-15 12:08:06,178  INFO [main] Log4j:26 - Entering text into text box
+2019-11-15 12:08:06,896  INFO [main] Log4j:26 - Magesh is entered
+2019-11-15 12:08:06,896  INFO [main] Log4j:26 - Click is progressed
+2019-11-15 12:08:07,906  INFO [main] Log4j:26 - click is done
+2019-11-15 12:08:07,906  INFO [main] Log4j:26 - Click is progressed
+2019-11-15 12:08:09,384  INFO [main] Log4j:26 - click is done
+2019-11-15 12:08:09,384  INFO [main] Log4j:26 -  Getting text from data
+2019-11-15 12:08:09,680  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-15 12:08:09,680  INFO [main] Log4j:26 - The value is: Hawt Like a Habanero Shirt (Men's)
+2019-11-15 12:08:09,680  INFO [main] Log4j:26 - Assertion Starts
+2019-11-15 12:08:09,680  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-15 12:08:09,680  INFO [main] Log4j:26 -  Getting text from data
+2019-11-15 12:08:09,930  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-15 12:08:09,930  INFO [main] Log4j:26 - The value is: Shirt Size: M
+2019-11-15 12:08:09,930  INFO [main] Log4j:26 - Assertion Starts
+2019-11-15 12:08:09,930  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-15 12:08:09,930  INFO [main] Log4j:26 -  Getting text from data
+2019-11-15 12:08:10,320  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-15 12:08:10,320  INFO [main] Log4j:26 - The value is: Personalized Name: Magesh
+2019-11-15 12:08:10,320  INFO [main] Log4j:26 - Assertion Starts
+2019-11-15 12:08:10,320  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-15 12:08:10,320  INFO [main] Log4j:26 -  Getting text from data
+2019-11-15 12:08:10,742  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-15 12:08:10,756  INFO [main] Log4j:26 - The value is: Shirt Color: Red
+2019-11-15 12:08:10,756  INFO [main] Log4j:26 - Assertion Starts
+2019-11-15 12:08:10,757  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-15 12:08:10,757  INFO [main] Log4j:26 -  Getting text from data
+2019-11-15 12:08:11,116  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-15 12:08:11,116  INFO [main] Log4j:26 - The value is: $14.99
+2019-11-15 12:08:11,116  INFO [main] Log4j:26 - Assertion Starts
+2019-11-15 12:08:11,116  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-15 12:08:11,132  INFO [main] Log4j:26 -  Getting text from data
+2019-11-15 12:08:11,413  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-15 12:08:11,413  INFO [main] Log4j:26 - The value is: $14.99
+2019-11-15 12:08:11,413  INFO [main] Log4j:26 - Assertion Starts
+2019-11-15 12:08:11,413  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-15 12:08:11,413  INFO [main] Log4j:26 - Click is progressed
+2019-11-15 12:08:12,198  INFO [main] Log4j:26 - click is done
+2019-11-15 12:08:12,204  INFO [main] Log4j:26 - Entering text into text box
+2019-11-15 12:08:12,683  INFO [main] Log4j:26 - ? is entered
+2019-11-15 12:08:12,746  INFO [main] Log4j:26 - Entering text into text box
+2019-11-15 12:08:13,308  INFO [main] Log4j:26 - 3 is entered
+2019-11-15 12:08:15,323  INFO [main] Log4j:26 - Click is progressed
+2019-11-15 12:08:16,305  INFO [main] Log4j:26 - click is done
+2019-11-15 12:08:16,309  INFO [main] Log4j:26 -  Getting text from data
+2019-11-15 12:08:16,671  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-15 12:08:16,682  INFO [main] Log4j:26 - The value is: $14.99
+2019-11-15 12:08:16,682  INFO [main] Log4j:26 - Assertion Starts
+2019-11-15 12:08:16,683  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-15 12:08:16,683  INFO [main] Log4j:26 -  Getting text from data
+2019-11-15 12:08:16,933  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-15 12:08:16,933  INFO [main] Log4j:26 - The value is: $194.87
+2019-11-15 12:08:16,933  INFO [main] Log4j:26 - Assertion Starts
+2019-11-15 12:08:16,933  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 10:49:36,434  INFO [main] config files:62 - INTERNET EXPLORER DriverInitiated
+2019-11-19 10:49:53,826  INFO [main] Log4j:26 - URL opened
+2019-11-19 10:49:53,866  INFO [main] Log4j:26 - Browser Maximized
+2019-11-19 10:49:53,867  INFO [main] Log4j:26 - STEP 1: The Url has opened in the driver and it has been maximized
+2019-11-19 10:51:14,998  INFO [main] Log4j:26 - STEP 2:Listed tabs were verified by clicking and navigating them in order
+2019-11-19 10:51:33,579  INFO [main] Log4j:26 - STEP 2:Listed tabs were verified by clicking and navigating them in order
+2019-11-19 10:51:38,186  INFO [main] Log4j:26 - STEP 2:Listed tabs were verified by clicking and navigating them in order
+2019-11-19 10:51:53,357  INFO [main] Log4j:26 - STEP 2:Listed tabs were verified by clicking and navigating them in order
+2019-11-19 10:52:08,946  INFO [main] Log4j:26 - STEP 2:Listed tabs were verified by clicking and navigating them in order
+2019-11-19 10:52:22,211  INFO [main] Log4j:26 - STEP 2:Listed tabs were verified by clicking and navigating them in order
+2019-11-19 10:52:23,486  INFO [main] Log4j:26 - STEP 3:Viewed on Merchandise tab and clicked on mens
+2019-11-19 10:52:23,487  INFO [main] Log4j:26 - Traversing to merchandise tab and selecting product
+2019-11-19 10:52:23,487  INFO [main] Log4j:26 - Text split action performs
+2019-11-19 10:52:33,477  INFO [main] config files:62 - INTERNET EXPLORER DriverInitiated
+2019-11-19 10:58:21,898  INFO [main] config files:62 - INTERNET EXPLORER DriverInitiated
+2019-11-19 10:58:41,511  INFO [main] Log4j:26 - URL opened
+2019-11-19 10:58:41,560  INFO [main] Log4j:26 - Browser Maximized
+2019-11-19 10:58:41,561  INFO [main] Log4j:26 - STEP 1: The Url has opened in the driver and it has been maximized
+2019-11-19 11:02:41,277  INFO [main] config files:62 - INTERNET EXPLORER DriverInitiated
+2019-11-19 11:03:49,216  INFO [main] Log4j:26 - URL opened
+2019-11-19 11:03:49,286  INFO [main] Log4j:26 - Browser Maximized
+2019-11-19 11:03:49,287  INFO [main] Log4j:26 - STEP 1: The Url has opened in the driver and it has been maximized
+2019-11-19 11:03:53,872  INFO [main] Log4j:26 - STEP 2:Listed tabs were verified by clicking and navigating them in order
+2019-11-19 11:04:23,704  INFO [main] config files:62 - INTERNET EXPLORER DriverInitiated
+2019-11-19 11:04:33,467  INFO [main] Log4j:26 - URL opened
+2019-11-19 11:04:33,586  INFO [main] Log4j:26 - Browser Maximized
+2019-11-19 11:04:33,631  INFO [main] Log4j:26 - Got title from URL
+2019-11-19 11:04:33,632  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:04:33,691  INFO [main] Log4j:26 - The value is: The Ninja Store
+2019-11-19 11:04:33,692  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 11:04:33,699  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 11:04:33,704  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:04:33,706  INFO [main] Log4j:26 - The value is: Iphone
+2019-11-19 11:04:33,707  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 11:04:35,715  INFO [main] Log4j:26 - Iphone is entered
+2019-11-19 11:04:35,716  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 11:04:40,925  INFO [main] Log4j:26 - click is done
+2019-11-19 11:04:40,926  INFO [main] Log4j:26 - Scrolls performed
+2019-11-19 11:04:41,244  INFO [main] Log4j:26 - Scroll done
+2019-11-19 11:04:41,245  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 11:07:00,357  INFO [main] config files:62 - INTERNET EXPLORER DriverInitiated
+2019-11-19 11:07:04,077  INFO [main] Log4j:26 - URL opened
+2019-11-19 11:07:04,120  INFO [main] Log4j:26 - Browser Maximized
+2019-11-19 11:07:04,121  INFO [main] Log4j:26 - STEP 1: The Url has opened in the driver and it has been maximized
+2019-11-19 11:07:09,688  INFO [main] Log4j:26 - STEP 2:Listed tabs were verified by clicking and navigating them in order
+2019-11-19 11:08:18,097  INFO [main] Log4j:26 - STEP 2:Listed tabs were verified by clicking and navigating them in order
+2019-11-19 11:08:38,674  INFO [main] Log4j:26 - STEP 2:Listed tabs were verified by clicking and navigating them in order
+2019-11-19 11:09:08,781  INFO [main] config files:62 - INTERNET EXPLORER DriverInitiated
+2019-11-19 11:09:17,749  INFO [main] Log4j:26 - URL opened
+2019-11-19 11:09:17,829  INFO [main] Log4j:26 - Browser Maximized
+2019-11-19 11:09:17,860  INFO [main] Log4j:26 - Got title from URL
+2019-11-19 11:09:17,861  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:09:17,877  INFO [main] Log4j:26 - The value is: The Ninja Store
+2019-11-19 11:09:17,878  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 11:09:17,882  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 11:09:17,885  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:09:17,887  INFO [main] Log4j:26 - The value is: Iphone
+2019-11-19 11:09:17,888  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 11:09:18,783  INFO [main] Log4j:26 - Iphone is entered
+2019-11-19 11:09:18,784  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 11:09:20,268  INFO [main] Log4j:26 - click is done
+2019-11-19 11:09:20,269  INFO [main] Log4j:26 - Scrolls performed
+2019-11-19 11:09:20,352  INFO [main] Log4j:26 - Scroll done
+2019-11-19 11:09:20,352  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 11:21:35,689  INFO [main] config files:62 - INTERNET EXPLORER DriverInitiated
+2019-11-19 11:21:54,398  INFO [main] Log4j:26 - URL opened
+2019-11-19 11:21:54,448  INFO [main] Log4j:26 - Browser Maximized
+2019-11-19 11:21:54,493  INFO [main] Log4j:26 - Got title from URL
+2019-11-19 11:21:54,493  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:21:54,504  INFO [main] Log4j:26 - The value is: The Ninja Store
+2019-11-19 11:21:54,504  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 11:23:07,558  INFO [main] config files:62 - INTERNET EXPLORER DriverInitiated
+2019-11-19 11:23:08,828  INFO [main] Log4j:26 - URL opened
+2019-11-19 11:23:08,868  INFO [main] Log4j:26 - Browser Maximized
+2019-11-19 11:23:08,938  INFO [main] Log4j:26 - Got title from URL
+2019-11-19 11:23:08,939  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:23:08,968  INFO [main] Log4j:26 - The value is: The Ninja Store
+2019-11-19 11:23:08,969  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 11:23:08,978  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 11:23:09,008  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:23:09,012  INFO [main] Log4j:26 - The value is: Iphone
+2019-11-19 11:23:09,013  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 11:23:09,809  INFO [main] Log4j:26 - Iphone is entered
+2019-11-19 11:23:09,810  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 11:23:11,135  INFO [main] Log4j:26 - click is done
+2019-11-19 11:23:11,136  INFO [main] Log4j:26 - Scrolls performed
+2019-11-19 11:23:11,278  INFO [main] Log4j:26 - Scroll done
+2019-11-19 11:23:11,283  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 11:29:26,902  INFO [main] config files:62 - CHROME DriverInitiated
+2019-11-19 11:30:43,897  INFO [main] Log4j:26 - URL opened
+2019-11-19 11:30:48,099  INFO [main] Log4j:26 - Browser Maximized
+2019-11-19 11:30:48,100  INFO [main] Log4j:26 - 
+2019-11-19 11:30:48,160  INFO [main] Log4j:26 - Got title from URL
+2019-11-19 11:30:48,161  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:30:48,177  INFO [main] Log4j:26 - The value is: The Ninja Store
+2019-11-19 11:30:48,178  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 11:30:48,181  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 11:30:48,194  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:30:48,196  INFO [main] Log4j:26 - The value is: Iphone
+2019-11-19 11:30:48,197  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 11:30:48,608  INFO [main] Log4j:26 - Iphone is entered
+2019-11-19 11:30:48,608  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 11:30:49,791  INFO [main] Log4j:26 - click is done
+2019-11-19 11:30:49,792  INFO [main] Log4j:26 - Scrolls performed
+2019-11-19 11:30:49,883  INFO [main] Log4j:26 - Scroll done
+2019-11-19 11:30:49,883  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 11:36:13,595  INFO [main] config files:62 - CHROME DriverInitiated
+2019-11-19 11:36:27,281  INFO [main] Log4j:26 - URL opened
+2019-11-19 11:36:31,510  INFO [main] Log4j:26 - Browser Maximized
+2019-11-19 11:36:31,510  INFO [main] Log4j:26 - 
+2019-11-19 11:36:31,560  INFO [main] Log4j:26 - Got title from URL
+2019-11-19 11:36:31,560  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:36:31,584  INFO [main] Log4j:26 - The value is: The Ninja Store
+2019-11-19 11:36:31,584  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 11:36:31,588  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 11:36:31,604  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:36:31,604  INFO [main] Log4j:26 - The value is: Iphone
+2019-11-19 11:36:31,608  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 11:36:31,852  INFO [main] Log4j:26 - Iphone is entered
+2019-11-19 11:36:31,852  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 11:36:33,535  INFO [main] Log4j:26 - click is done
+2019-11-19 11:36:33,535  INFO [main] Log4j:26 - Scrolls performed
+2019-11-19 11:36:33,572  INFO [main] Log4j:26 - Scroll done
+2019-11-19 11:36:33,572  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 11:37:09,686  INFO [main] Log4j:26 - click is done
+2019-11-19 11:37:09,686  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:37:09,688  INFO [main] Log4j:26 - The value is: 2
+2019-11-19 11:37:09,689  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 11:37:09,826  INFO [main] Log4j:26 - click is done
+2019-11-19 11:37:09,842  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 11:37:09,946  INFO [main] Log4j:26 - ? is entered
+2019-11-19 11:37:11,947  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 11:37:12,048  INFO [main] Log4j:26 - 2 is entered
+2019-11-19 11:37:12,048  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 11:37:12,123  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:37:12,123  INFO [main] Log4j:26 - The value is: Availability: In Stock
+2019-11-19 11:37:12,123  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 11:37:12,123  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 11:37:12,123  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 11:37:12,217  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:37:12,217  INFO [main] Log4j:26 - The value is: iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-19 11:37:12,217  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 11:37:12,217  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 11:37:12,217  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 11:37:12,311  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:37:12,311  INFO [main] Log4j:26 - The value is: $123.20
+2019-11-19 11:37:12,311  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 11:37:12,311  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 11:37:12,311  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 11:37:12,389  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:37:12,389  INFO [main] Log4j:26 - The value is: Ex Tax: $101.00
+2019-11-19 11:37:12,389  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 11:37:12,389  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 11:37:12,389  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 11:37:12,547  INFO [main] Log4j:26 - click is done
+2019-11-19 11:37:12,547  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 11:37:12,671  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:37:12,671  INFO [main] Log4j:26 - The value is: MacBook Air
+2019-11-19 11:37:12,671  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 11:37:12,840  INFO [main] Log4j:26 - MacBook Air is entered
+2019-11-19 11:37:12,840  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 11:37:14,978  INFO [main] Log4j:26 - click is done
+2019-11-19 11:37:14,978  INFO [main] Log4j:26 - Scrolls performed
+2019-11-19 11:37:15,021  INFO [main] Log4j:26 - Scroll done
+2019-11-19 11:37:15,021  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 11:37:51,868  INFO [main] Log4j:26 - click is done
+2019-11-19 11:37:51,872  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:37:51,873  INFO [main] Log4j:26 - The value is: 3
+2019-11-19 11:37:51,874  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 11:37:52,007  INFO [main] Log4j:26 - click is done
+2019-11-19 11:37:52,011  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 11:37:52,091  INFO [main] Log4j:26 - ? is entered
+2019-11-19 11:37:54,094  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 11:37:54,233  INFO [main] Log4j:26 - 3 is entered
+2019-11-19 11:37:54,233  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 11:37:54,297  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:37:54,297  INFO [main] Log4j:26 - The value is: Availability: In Stock
+2019-11-19 11:37:54,297  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 11:37:54,297  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 11:37:54,297  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 11:37:54,369  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:37:54,369  INFO [main] Log4j:26 - The value is: MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-19 11:37:54,369  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 11:37:54,373  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 11:37:54,373  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 11:37:54,445  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:37:54,445  INFO [main] Log4j:26 - The value is: $1,202.00
+2019-11-19 11:37:54,445  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 11:37:54,445  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 11:37:54,445  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 11:37:54,513  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:37:54,513  INFO [main] Log4j:26 - The value is: Ex Tax: $1,000.00
+2019-11-19 11:37:54,517  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 11:37:54,517  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 11:37:54,517  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 11:37:54,677  INFO [main] Log4j:26 - click is done
+2019-11-19 11:37:54,677  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 11:37:56,093  INFO [main] Log4j:26 - click is done
+2019-11-19 11:37:56,093  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 11:37:56,283  INFO [main] Log4j:26 - click is done
+2019-11-19 11:38:00,285  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 11:38:00,355  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:38:00,359  INFO [main] Log4j:26 - The value is: $3,852.40
+2019-11-19 11:38:00,359  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 11:38:57,773  INFO [main] config files:62 - CHROME DriverInitiated
+2019-11-19 11:40:29,211  INFO [main] Log4j:26 - URL opened
+2019-11-19 11:40:33,458  INFO [main] Log4j:26 - Browser Maximized
+2019-11-19 11:40:33,458  INFO [main] Log4j:26 - 
+2019-11-19 11:40:33,504  INFO [main] Log4j:26 - Got title from URL
+2019-11-19 11:40:33,504  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:40:33,524  INFO [main] Log4j:26 - The value is: The Ninja Store
+2019-11-19 11:40:33,524  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 11:40:33,528  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 11:40:33,544  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:40:33,548  INFO [main] Log4j:26 - The value is: Iphone
+2019-11-19 11:40:33,548  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 11:40:33,910  INFO [main] Log4j:26 - Iphone is entered
+2019-11-19 11:40:33,910  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 11:40:35,358  INFO [main] Log4j:26 - click is done
+2019-11-19 11:40:35,358  INFO [main] Log4j:26 - Scrolls performed
+2019-11-19 11:40:35,409  INFO [main] Log4j:26 - Scroll done
+2019-11-19 11:40:35,409  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 11:40:56,599  INFO [main] Log4j:26 - click is done
+2019-11-19 11:40:56,599  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:40:56,603  INFO [main] Log4j:26 - The value is: 2
+2019-11-19 11:40:56,603  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 11:40:56,836  INFO [main] Log4j:26 - click is done
+2019-11-19 11:40:56,844  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 11:40:56,940  INFO [main] Log4j:26 - ? is entered
+2019-11-19 11:40:58,948  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 11:40:59,114  INFO [main] Log4j:26 - 2 is entered
+2019-11-19 11:40:59,118  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 11:40:59,286  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:40:59,290  INFO [main] Log4j:26 - The value is: Availability: In Stock
+2019-11-19 11:40:59,294  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 11:40:59,294  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 11:40:59,294  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 11:40:59,426  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:40:59,426  INFO [main] Log4j:26 - The value is: iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-19 11:40:59,426  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 11:40:59,426  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 11:40:59,430  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 11:40:59,534  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:40:59,534  INFO [main] Log4j:26 - The value is: $123.20
+2019-11-19 11:40:59,534  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 11:40:59,534  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 11:40:59,534  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 11:40:59,638  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:40:59,642  INFO [main] Log4j:26 - The value is: Ex Tax: $101.00
+2019-11-19 11:40:59,642  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 11:40:59,642  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 11:40:59,642  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 11:40:59,862  INFO [main] Log4j:26 - click is done
+2019-11-19 11:40:59,862  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 11:40:59,978  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:40:59,980  INFO [main] Log4j:26 - The value is: MacBook Air
+2019-11-19 11:40:59,980  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 11:41:00,157  INFO [main] Log4j:26 - MacBook Air is entered
+2019-11-19 11:41:00,157  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 11:41:02,104  INFO [main] Log4j:26 - click is done
+2019-11-19 11:41:02,104  INFO [main] Log4j:26 - Scrolls performed
+2019-11-19 11:41:02,129  INFO [main] Log4j:26 - Scroll done
+2019-11-19 11:41:02,129  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 11:41:39,409  INFO [main] Log4j:26 - click is done
+2019-11-19 11:41:39,409  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:41:39,410  INFO [main] Log4j:26 - The value is: 3
+2019-11-19 11:41:39,411  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 11:41:39,623  INFO [main] Log4j:26 - click is done
+2019-11-19 11:41:39,623  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 11:41:39,707  INFO [main] Log4j:26 - ? is entered
+2019-11-19 11:41:41,710  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 11:41:41,828  INFO [main] Log4j:26 - 3 is entered
+2019-11-19 11:41:41,828  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 11:41:41,936  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:41:41,936  INFO [main] Log4j:26 - The value is: Availability: In Stock
+2019-11-19 11:41:41,936  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 11:41:41,940  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 11:41:41,940  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 11:41:42,044  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:41:42,048  INFO [main] Log4j:26 - The value is: MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-19 11:41:42,048  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 11:41:42,048  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 11:41:42,048  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 11:41:42,144  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:41:42,144  INFO [main] Log4j:26 - The value is: $1,202.00
+2019-11-19 11:41:42,144  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 11:41:42,144  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 11:41:42,144  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 11:41:42,212  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 11:41:42,216  INFO [main] Log4j:26 - The value is: Ex Tax: $1,000.00
+2019-11-19 11:41:42,216  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 11:41:42,216  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 11:41:42,216  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 11:41:42,423  INFO [main] Log4j:26 - click is done
+2019-11-19 11:41:42,423  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 11:41:43,653  INFO [main] Log4j:26 - click is done
+2019-11-19 11:41:43,653  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 11:41:43,803  INFO [main] Log4j:26 - click is done
+2019-11-19 11:41:47,806  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 15:50:55,891  INFO [main] config files:62 - CHROME DriverInitiated
+2019-11-19 15:51:02,062  INFO [main] Log4j:26 - URL opened
+2019-11-19 15:51:06,293  INFO [main] Log4j:26 - Browser Maximized
+2019-11-19 15:51:06,297  INFO [main] Log4j:26 - STEP 1: The Url has opened in the driver and it has been maximized
+2019-11-19 15:51:07,461  INFO [main] Log4j:26 - STEP 2:Listed tabs were verified by clicking and navigating them in order
+2019-11-19 15:51:09,097  INFO [main] Log4j:26 - STEP 2:Listed tabs were verified by clicking and navigating them in order
+2019-11-19 15:51:10,205  INFO [main] Log4j:26 - STEP 2:Listed tabs were verified by clicking and navigating them in order
+2019-11-19 15:51:11,293  INFO [main] Log4j:26 - STEP 2:Listed tabs were verified by clicking and navigating them in order
+2019-11-19 15:51:12,204  INFO [main] Log4j:26 - STEP 2:Listed tabs were verified by clicking and navigating them in order
+2019-11-19 15:51:13,078  INFO [main] Log4j:26 - STEP 2:Listed tabs were verified by clicking and navigating them in order
+2019-11-19 15:51:14,258  INFO [main] Log4j:26 - STEP 3:Viewed on Merchandise tab and clicked on mens
+2019-11-19 15:51:14,258  INFO [main] Log4j:26 - Traversing to merchandise tab and selecting product
+2019-11-19 15:51:14,258  INFO [main] Log4j:26 - Text split action performs
+2019-11-19 15:51:15,875  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 15:51:15,916  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 15:51:15,916  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 15:51:16,043  INFO [main] Log4j:26 - click is done
+2019-11-19 15:51:16,047  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 15:51:43,966  INFO [main] config files:62 - CHROME DriverInitiated
+2019-11-19 15:51:47,375  INFO [main] Log4j:26 - URL opened
+2019-11-19 15:51:51,609  INFO [main] Log4j:26 - Browser Maximized
+2019-11-19 15:51:51,609  INFO [main] Log4j:26 - 
+2019-11-19 15:51:51,641  INFO [main] Log4j:26 - Got title from URL
+2019-11-19 15:51:51,641  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 15:51:51,773  INFO [main] Log4j:26 - The value is: The Ninja Store
+2019-11-19 15:51:51,773  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 15:51:51,773  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 15:51:51,777  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 15:51:51,781  INFO [main] Log4j:26 - The value is: Iphone
+2019-11-19 15:51:51,781  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 15:51:52,558  INFO [main] Log4j:26 - Iphone is entered
+2019-11-19 15:51:52,558  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 15:51:53,822  INFO [main] Log4j:26 - click is done
+2019-11-19 15:51:53,822  INFO [main] Log4j:26 - Scrolls performed
+2019-11-19 15:51:53,902  INFO [main] Log4j:26 - Scroll done
+2019-11-19 15:51:53,902  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 15:52:00,704  INFO [main] Log4j:26 - click is done
+2019-11-19 15:52:00,704  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 15:52:00,704  INFO [main] Log4j:26 - The value is: 2
+2019-11-19 15:52:00,708  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 15:52:01,160  INFO [main] Log4j:26 - click is done
+2019-11-19 15:52:01,212  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 15:52:01,360  INFO [main] Log4j:26 - ? is entered
+2019-11-19 15:52:03,364  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 15:52:03,536  INFO [main] Log4j:26 - 2 is entered
+2019-11-19 15:52:03,536  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 15:52:03,668  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 15:52:03,668  INFO [main] Log4j:26 - The value is: Availability: In Stock
+2019-11-19 15:52:03,668  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 15:52:03,672  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 15:52:03,672  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 15:52:03,740  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 15:52:03,744  INFO [main] Log4j:26 - The value is: iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-19 15:52:03,744  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 15:52:03,744  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 15:52:03,744  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 15:52:03,808  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 15:52:03,808  INFO [main] Log4j:26 - The value is: $123.20
+2019-11-19 15:52:03,808  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 15:52:03,808  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 15:52:03,808  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 15:52:03,900  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 15:52:03,900  INFO [main] Log4j:26 - The value is: Ex Tax: $101.00
+2019-11-19 15:52:03,900  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 15:52:03,900  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 15:52:03,900  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 15:52:04,084  INFO [main] Log4j:26 - click is done
+2019-11-19 15:52:04,084  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 15:52:04,256  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 15:52:04,260  INFO [main] Log4j:26 - The value is: MacBook Air
+2019-11-19 15:52:04,260  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 15:52:04,528  INFO [main] Log4j:26 - MacBook Air is entered
+2019-11-19 15:52:04,528  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 15:52:05,836  INFO [main] Log4j:26 - click is done
+2019-11-19 15:52:05,836  INFO [main] Log4j:26 - Scrolls performed
+2019-11-19 15:52:05,864  INFO [main] Log4j:26 - Scroll done
+2019-11-19 15:52:05,868  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 15:52:07,995  INFO [main] Log4j:26 - click is done
+2019-11-19 15:52:07,995  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 15:52:07,995  INFO [main] Log4j:26 - The value is: 3
+2019-11-19 15:52:07,995  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 15:52:08,591  INFO [main] Log4j:26 - click is done
+2019-11-19 15:52:08,591  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 15:52:08,747  INFO [main] Log4j:26 - ? is entered
+2019-11-19 15:52:10,750  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 15:52:10,870  INFO [main] Log4j:26 - 3 is entered
+2019-11-19 15:52:10,874  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 15:52:10,998  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 15:52:10,998  INFO [main] Log4j:26 - The value is: Availability: In Stock
+2019-11-19 15:52:10,998  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 15:52:10,998  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 15:52:10,998  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 15:52:11,142  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 15:52:11,146  INFO [main] Log4j:26 - The value is: MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-19 15:52:11,146  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 15:52:11,146  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 15:52:11,146  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 15:52:11,250  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 15:52:11,250  INFO [main] Log4j:26 - The value is: $1,202.00
+2019-11-19 15:52:11,250  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 15:52:11,250  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 15:52:11,250  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 15:52:11,346  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 15:52:11,350  INFO [main] Log4j:26 - The value is: Ex Tax: $1,000.00
+2019-11-19 15:52:11,350  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 15:52:11,350  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 15:52:11,350  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 15:52:11,570  INFO [main] Log4j:26 - click is done
+2019-11-19 15:52:11,570  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 15:52:12,654  INFO [main] Log4j:26 - click is done
+2019-11-19 15:52:12,654  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 15:52:12,894  INFO [main] Log4j:26 - click is done
+2019-11-19 15:52:16,894  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 15:52:17,011  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 15:52:17,011  INFO [main] Log4j:26 - The value is: $3,852.40
+2019-11-19 15:52:17,011  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 15:52:17,011  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 15:52:17,015  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 15:52:17,066  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 15:52:17,066  INFO [main] Log4j:26 - The value is: $3,606.00
+2019-11-19 15:52:17,066  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 15:52:17,066  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 15:52:17,066  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 15:52:17,256  INFO [main] Log4j:26 - click is done
+2019-11-19 15:52:20,258  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 15:52:20,390  INFO [main] Log4j:26 - click is done
+2019-11-19 15:52:20,394  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 15:52:20,490  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 15:52:20,494  INFO [main] Log4j:26 - The value is: $246.40
+2019-11-19 15:52:20,494  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 15:52:20,494  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:38:38,309  INFO [main] config files:62 - CHROME DriverInitiated
+2019-11-19 17:38:45,826  INFO [main] Log4j:26 - Browser Maximized
+2019-11-19 17:38:45,950  INFO [main] Log4j:26 - Got title from URL
+2019-11-19 17:38:45,950  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:38:45,965  INFO [main] Log4j:26 - The value is: The Ninja Store
+2019-11-19 17:38:45,965  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:38:45,970  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:38:45,974  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:38:45,974  INFO [main] Log4j:26 - The value is: Iphone
+2019-11-19 17:38:45,975  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:38:46,857  INFO [main] Log4j:26 - Iphone is entered
+2019-11-19 17:38:46,857  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:38:48,104  INFO [main] Log4j:26 - click is done
+2019-11-19 17:38:48,104  INFO [main] Log4j:26 - Scrolls performed
+2019-11-19 17:38:48,180  INFO [main] Log4j:26 - Scroll done
+2019-11-19 17:38:48,181  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:38:52,895  INFO [main] Log4j:26 - click is done
+2019-11-19 17:38:52,895  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:38:52,896  INFO [main] Log4j:26 - The value is: 2
+2019-11-19 17:38:52,897  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:38:58,104  INFO [main] Log4j:26 - click is done
+2019-11-19 17:38:58,110  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:38:58,255  INFO [main] Log4j:26 - ? is entered
+2019-11-19 17:39:00,256  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:39:00,339  INFO [main] Log4j:26 - 2 is entered
+2019-11-19 17:39:00,339  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:39:00,415  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:39:00,417  INFO [main] Log4j:26 - The value is: Availability: In Stock
+2019-11-19 17:39:00,417  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:39:00,418  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:39:00,418  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:39:00,516  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:39:00,517  INFO [main] Log4j:26 - The value is: iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-19 17:39:00,517  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:39:00,518  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:39:00,518  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:39:00,638  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:39:00,639  INFO [main] Log4j:26 - The value is: $123.20
+2019-11-19 17:39:00,639  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:39:00,640  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:39:00,640  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:39:00,742  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:39:00,743  INFO [main] Log4j:26 - The value is: Ex Tax: $101.00
+2019-11-19 17:39:00,744  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:39:00,744  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:39:00,744  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:39:05,917  INFO [main] Log4j:26 - click is done
+2019-11-19 17:39:05,918  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:39:06,094  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:39:06,095  INFO [main] Log4j:26 - The value is: MacBook Air
+2019-11-19 17:39:06,095  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:39:06,360  INFO [main] Log4j:26 - MacBook Air is entered
+2019-11-19 17:39:06,361  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:39:12,272  INFO [main] Log4j:26 - click is done
+2019-11-19 17:39:12,273  INFO [main] Log4j:26 - Scrolls performed
+2019-11-19 17:39:12,296  INFO [main] Log4j:26 - Scroll done
+2019-11-19 17:39:12,296  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:39:17,428  INFO [main] Log4j:26 - click is done
+2019-11-19 17:39:17,428  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:39:17,429  INFO [main] Log4j:26 - The value is: 3
+2019-11-19 17:39:17,430  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:44:12,330  INFO [main] config files:62 - CHROME DriverInitiated
+2019-11-19 17:45:48,305  INFO [main] config files:62 - CHROME DriverInitiated
+2019-11-19 17:45:51,508  INFO [main] Log4j:26 - URL opened
+2019-11-19 17:45:55,707  INFO [main] Log4j:26 - Browser Maximized
+2019-11-19 17:45:55,813  INFO [main] Log4j:26 - Got title from URL
+2019-11-19 17:45:55,813  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:45:55,845  INFO [main] Log4j:26 - The value is: The Ninja Store
+2019-11-19 17:45:55,845  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:45:55,849  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:45:55,861  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:45:55,861  INFO [main] Log4j:26 - The value is: Iphone
+2019-11-19 17:45:55,861  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:45:56,453  INFO [main] Log4j:26 - Iphone is entered
+2019-11-19 17:45:56,453  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:45:57,772  INFO [main] Log4j:26 - click is done
+2019-11-19 17:45:57,776  INFO [main] Log4j:26 - Scrolls performed
+2019-11-19 17:45:57,826  INFO [main] Log4j:26 - Scroll done
+2019-11-19 17:45:57,826  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:46:04,361  INFO [main] Log4j:26 - click is done
+2019-11-19 17:46:04,361  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:46:04,365  INFO [main] Log4j:26 - The value is: 2
+2019-11-19 17:46:04,365  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:46:04,755  INFO [main] Log4j:26 - click is done
+2019-11-19 17:46:04,783  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:46:04,907  INFO [main] Log4j:26 - ? is entered
+2019-11-19 17:46:06,911  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:46:06,986  INFO [main] Log4j:26 - 2 is entered
+2019-11-19 17:46:06,986  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:46:07,058  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:46:07,062  INFO [main] Log4j:26 - The value is: Availability: In Stock
+2019-11-19 17:46:07,062  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:46:07,062  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:46:07,062  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:46:07,130  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:46:07,130  INFO [main] Log4j:26 - The value is: iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-19 17:46:07,130  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:46:07,130  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:46:07,134  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:46:07,214  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:46:07,214  INFO [main] Log4j:26 - The value is: $123.20
+2019-11-19 17:46:07,214  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:46:07,214  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:46:07,214  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:46:07,294  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:46:07,294  INFO [main] Log4j:26 - The value is: Ex Tax: $101.00
+2019-11-19 17:46:07,298  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:46:07,298  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:46:07,298  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:46:07,518  INFO [main] Log4j:26 - click is done
+2019-11-19 17:46:07,518  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:46:07,734  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:46:07,734  INFO [main] Log4j:26 - The value is: MacBook Air
+2019-11-19 17:46:07,734  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:46:08,306  INFO [main] Log4j:26 - MacBook Air is entered
+2019-11-19 17:46:08,306  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:46:09,220  INFO [main] Log4j:26 - click is done
+2019-11-19 17:46:09,220  INFO [main] Log4j:26 - Scrolls performed
+2019-11-19 17:46:09,244  INFO [main] Log4j:26 - Scroll done
+2019-11-19 17:46:09,244  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:46:11,259  INFO [main] Log4j:26 - click is done
+2019-11-19 17:46:11,259  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:46:11,259  INFO [main] Log4j:26 - The value is: 3
+2019-11-19 17:46:11,259  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:46:11,756  INFO [main] Log4j:26 - click is done
+2019-11-19 17:46:11,756  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:46:11,864  INFO [main] Log4j:26 - ? is entered
+2019-11-19 17:46:13,868  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:46:13,954  INFO [main] Log4j:26 - 3 is entered
+2019-11-19 17:46:13,954  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:46:14,038  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:46:14,042  INFO [main] Log4j:26 - The value is: Availability: In Stock
+2019-11-19 17:46:14,042  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:46:14,042  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:46:14,042  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:46:14,126  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:46:14,130  INFO [main] Log4j:26 - The value is: MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-19 17:46:14,130  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:46:14,130  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:46:14,130  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:46:14,210  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:46:14,210  INFO [main] Log4j:26 - The value is: $1,202.00
+2019-11-19 17:46:14,210  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:46:14,210  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:46:14,210  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:46:14,298  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:46:14,298  INFO [main] Log4j:26 - The value is: Ex Tax: $1,000.00
+2019-11-19 17:46:14,298  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:46:14,298  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:46:14,298  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:46:14,458  INFO [main] Log4j:26 - click is done
+2019-11-19 17:46:14,458  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:46:15,389  INFO [main] Log4j:26 - click is done
+2019-11-19 17:46:15,389  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:46:15,635  INFO [main] Log4j:26 - click is done
+2019-11-19 17:46:19,637  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:46:19,809  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:46:19,813  INFO [main] Log4j:26 - The value is: $3,852.40
+2019-11-19 17:46:19,813  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:46:19,813  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:46:19,813  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:46:19,929  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:46:19,933  INFO [main] Log4j:26 - The value is: $3,606.00
+2019-11-19 17:46:19,933  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:46:19,933  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:46:19,933  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:46:20,153  INFO [main] Log4j:26 - click is done
+2019-11-19 17:46:23,154  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:46:49,708  INFO [main] config files:62 - CHROME DriverInitiated
+2019-11-19 17:46:52,727  INFO [main] Log4j:26 - URL opened
+2019-11-19 17:46:56,932  INFO [main] Log4j:26 - Browser Maximized
+2019-11-19 17:46:57,085  INFO [main] Log4j:26 - Got title from URL
+2019-11-19 17:46:57,085  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:46:57,185  INFO [main] Log4j:26 - The value is: The Ninja Store
+2019-11-19 17:46:57,185  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:46:57,189  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:46:57,205  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:46:57,205  INFO [main] Log4j:26 - The value is: Iphone
+2019-11-19 17:46:57,205  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:46:57,497  INFO [main] Log4j:26 - Iphone is entered
+2019-11-19 17:46:57,497  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:46:58,481  INFO [main] Log4j:26 - click is done
+2019-11-19 17:46:58,481  INFO [main] Log4j:26 - Scrolls performed
+2019-11-19 17:46:58,556  INFO [main] Log4j:26 - Scroll done
+2019-11-19 17:46:58,556  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:47:01,992  INFO [main] Log4j:26 - click is done
+2019-11-19 17:47:01,992  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:47:01,992  INFO [main] Log4j:26 - The value is: 2
+2019-11-19 17:47:01,992  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:47:02,333  INFO [main] Log4j:26 - click is done
+2019-11-19 17:47:02,337  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:47:02,441  INFO [main] Log4j:26 - ? is entered
+2019-11-19 17:47:04,441  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:47:04,525  INFO [main] Log4j:26 - 2 is entered
+2019-11-19 17:47:04,525  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:47:04,605  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:47:04,605  INFO [main] Log4j:26 - The value is: Availability: In Stock
+2019-11-19 17:47:04,605  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:47:04,605  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:47:04,605  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:47:04,681  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:47:04,685  INFO [main] Log4j:26 - The value is: iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-19 17:47:04,685  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:47:04,685  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:47:04,685  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:47:04,765  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:47:04,765  INFO [main] Log4j:26 - The value is: $123.20
+2019-11-19 17:47:04,765  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:47:04,765  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:47:04,765  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:47:04,841  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:47:04,841  INFO [main] Log4j:26 - The value is: Ex Tax: $101.00
+2019-11-19 17:47:04,841  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:47:04,841  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:47:04,841  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:47:05,009  INFO [main] Log4j:26 - click is done
+2019-11-19 17:47:05,013  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:47:05,141  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:47:05,141  INFO [main] Log4j:26 - The value is: MacBook Air
+2019-11-19 17:47:05,141  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:47:05,461  INFO [main] Log4j:26 - MacBook Air is entered
+2019-11-19 17:47:05,461  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:47:06,494  INFO [main] Log4j:26 - click is done
+2019-11-19 17:47:06,494  INFO [main] Log4j:26 - Scrolls performed
+2019-11-19 17:47:06,520  INFO [main] Log4j:26 - Scroll done
+2019-11-19 17:47:06,520  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:47:08,044  INFO [main] Log4j:26 - click is done
+2019-11-19 17:47:08,044  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:47:08,044  INFO [main] Log4j:26 - The value is: 3
+2019-11-19 17:47:08,044  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:47:08,233  INFO [main] Log4j:26 - click is done
+2019-11-19 17:47:08,233  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:47:08,337  INFO [main] Log4j:26 - ? is entered
+2019-11-19 17:47:10,341  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:47:10,431  INFO [main] Log4j:26 - 3 is entered
+2019-11-19 17:47:10,431  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:47:10,503  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:47:10,503  INFO [main] Log4j:26 - The value is: Availability: In Stock
+2019-11-19 17:47:10,507  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:47:10,507  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:47:10,507  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:47:10,579  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:47:10,579  INFO [main] Log4j:26 - The value is: MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-19 17:47:10,579  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:47:10,579  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:47:10,579  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:47:10,655  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:47:10,655  INFO [main] Log4j:26 - The value is: $1,202.00
+2019-11-19 17:47:10,659  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:47:10,659  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:47:10,659  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:47:10,727  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:47:10,727  INFO [main] Log4j:26 - The value is: Ex Tax: $1,000.00
+2019-11-19 17:47:10,727  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:47:10,727  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:47:10,727  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:47:10,879  INFO [main] Log4j:26 - click is done
+2019-11-19 17:47:10,879  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:47:11,770  INFO [main] Log4j:26 - click is done
+2019-11-19 17:47:11,770  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:47:11,993  INFO [main] Log4j:26 - click is done
+2019-11-19 17:47:15,996  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:47:16,067  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:47:16,067  INFO [main] Log4j:26 - The value is: $3,852.40
+2019-11-19 17:47:16,067  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:47:16,067  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:47:16,067  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:47:16,139  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:47:16,143  INFO [main] Log4j:26 - The value is: $3,606.00
+2019-11-19 17:47:16,143  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:47:16,143  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:47:16,143  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:47:16,287  INFO [main] Log4j:26 - click is done
+2019-11-19 17:47:19,290  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:47:19,396  INFO [main] Log4j:26 - click is done
+2019-11-19 17:47:19,400  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:47:19,500  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:47:19,500  INFO [main] Log4j:26 - The value is: $246.40
+2019-11-19 17:47:19,500  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:47:19,500  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:48:40,155  INFO [main] config files:62 - CHROME DriverInitiated
+2019-11-19 17:48:47,808  INFO [main] Log4j:26 - Browser Maximized
+2019-11-19 17:48:47,884  INFO [main] Log4j:26 - Got title from URL
+2019-11-19 17:48:47,884  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:48:47,900  INFO [main] Log4j:26 - The value is: The Ninja Store
+2019-11-19 17:48:47,900  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:48:47,904  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:48:47,908  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:48:47,908  INFO [main] Log4j:26 - The value is: Iphone
+2019-11-19 17:48:47,908  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:48:48,272  INFO [main] Log4j:26 - Iphone is entered
+2019-11-19 17:48:48,272  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:48:49,716  INFO [main] Log4j:26 - click is done
+2019-11-19 17:48:49,716  INFO [main] Log4j:26 - Scrolls performed
+2019-11-19 17:48:49,764  INFO [main] Log4j:26 - Scroll done
+2019-11-19 17:48:49,764  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:48:53,419  INFO [main] Log4j:26 - click is done
+2019-11-19 17:48:53,419  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:48:53,423  INFO [main] Log4j:26 - The value is: 2
+2019-11-19 17:48:53,423  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:48:54,003  INFO [main] Log4j:26 - click is done
+2019-11-19 17:48:54,007  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:48:54,163  INFO [main] Log4j:26 - ? is entered
+2019-11-19 17:48:56,166  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:48:56,266  INFO [main] Log4j:26 - 2 is entered
+2019-11-19 17:48:56,266  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:48:56,362  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:48:56,366  INFO [main] Log4j:26 - The value is: Availability: In Stock
+2019-11-19 17:48:56,366  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:48:56,366  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:48:56,366  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:48:56,454  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:48:56,454  INFO [main] Log4j:26 - The value is: iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-19 17:48:56,454  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:48:56,454  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:48:56,458  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:48:56,542  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:48:56,546  INFO [main] Log4j:26 - The value is: $123.20
+2019-11-19 17:48:56,546  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:48:56,546  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:48:56,546  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:48:56,626  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:48:56,626  INFO [main] Log4j:26 - The value is: Ex Tax: $101.00
+2019-11-19 17:48:56,626  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:48:56,626  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:48:56,626  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:48:56,794  INFO [main] Log4j:26 - click is done
+2019-11-19 17:48:56,794  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:48:56,950  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:48:56,950  INFO [main] Log4j:26 - The value is: MacBook Air
+2019-11-19 17:48:56,950  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:49:44,197  INFO [main] config files:62 - CHROME DriverInitiated
+2019-11-19 17:49:52,024  INFO [main] Log4j:26 - Browser Maximized
+2019-11-19 17:49:52,120  INFO [main] Log4j:26 - Got title from URL
+2019-11-19 17:49:52,120  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:49:52,160  INFO [main] Log4j:26 - The value is: The Ninja Store
+2019-11-19 17:49:52,164  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:49:52,168  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:49:52,172  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:49:52,172  INFO [main] Log4j:26 - The value is: Iphone
+2019-11-19 17:49:52,172  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:49:52,559  INFO [main] Log4j:26 - Iphone is entered
+2019-11-19 17:49:52,563  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:49:53,747  INFO [main] Log4j:26 - click is done
+2019-11-19 17:49:53,747  INFO [main] Log4j:26 - Scrolls performed
+2019-11-19 17:49:53,799  INFO [main] Log4j:26 - Scroll done
+2019-11-19 17:49:53,799  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:49:57,486  INFO [main] Log4j:26 - click is done
+2019-11-19 17:49:57,486  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:49:57,490  INFO [main] Log4j:26 - The value is: 2
+2019-11-19 17:49:57,490  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:49:57,838  INFO [main] Log4j:26 - click is done
+2019-11-19 17:49:57,842  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:49:58,070  INFO [main] Log4j:26 - ? is entered
+2019-11-19 17:50:00,074  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:50:00,182  INFO [main] Log4j:26 - 2 is entered
+2019-11-19 17:50:00,182  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:50:00,318  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:50:00,318  INFO [main] Log4j:26 - The value is: Availability: In Stock
+2019-11-19 17:50:00,318  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:50:00,322  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:50:00,322  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:50:00,466  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:50:00,466  INFO [main] Log4j:26 - The value is: iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-19 17:50:00,466  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:50:00,466  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:50:00,466  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:50:00,610  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:50:00,614  INFO [main] Log4j:26 - The value is: $123.20
+2019-11-19 17:50:00,614  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:50:00,614  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:50:00,614  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:50:00,717  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:50:00,717  INFO [main] Log4j:26 - The value is: Ex Tax: $101.00
+2019-11-19 17:50:00,717  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:50:00,717  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:50:00,717  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:50:00,969  INFO [main] Log4j:26 - click is done
+2019-11-19 17:50:00,973  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:50:01,173  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:50:01,173  INFO [main] Log4j:26 - The value is: MacBook Air
+2019-11-19 17:50:01,173  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:50:01,473  INFO [main] Log4j:26 - MacBook Air is entered
+2019-11-19 17:50:01,473  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:50:02,693  INFO [main] Log4j:26 - click is done
+2019-11-19 17:50:02,693  INFO [main] Log4j:26 - Scrolls performed
+2019-11-19 17:50:02,725  INFO [main] Log4j:26 - Scroll done
+2019-11-19 17:50:02,725  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:50:04,916  INFO [main] Log4j:26 - click is done
+2019-11-19 17:50:04,916  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:50:04,916  INFO [main] Log4j:26 - The value is: 3
+2019-11-19 17:50:04,916  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:50:05,176  INFO [main] Log4j:26 - click is done
+2019-11-19 17:50:05,176  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:50:05,320  INFO [main] Log4j:26 - ? is entered
+2019-11-19 17:50:07,324  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:50:07,416  INFO [main] Log4j:26 - 3 is entered
+2019-11-19 17:50:07,416  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:50:07,568  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:50:07,568  INFO [main] Log4j:26 - The value is: Availability: In Stock
+2019-11-19 17:50:07,568  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:50:07,568  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:50:07,568  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:50:08,332  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:50:08,336  INFO [main] Log4j:26 - The value is: MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-19 17:50:08,336  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:50:08,336  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:50:08,336  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:50:08,860  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:50:08,860  INFO [main] Log4j:26 - The value is: $1,202.00
+2019-11-19 17:50:08,860  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:50:08,860  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:50:08,860  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:50:08,932  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:50:08,932  INFO [main] Log4j:26 - The value is: Ex Tax: $1,000.00
+2019-11-19 17:50:08,936  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:50:08,936  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:50:08,936  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:50:09,623  INFO [main] Log4j:26 - click is done
+2019-11-19 17:50:09,623  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:50:10,835  INFO [main] Log4j:26 - click is done
+2019-11-19 17:50:10,835  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:50:11,051  INFO [main] Log4j:26 - click is done
+2019-11-19 17:50:15,056  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:50:15,528  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:50:15,528  INFO [main] Log4j:26 - The value is: $3,852.40
+2019-11-19 17:50:15,528  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:50:15,528  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:50:15,528  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:50:15,616  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:50:15,620  INFO [main] Log4j:26 - The value is: $3,606.00
+2019-11-19 17:50:15,620  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:50:15,620  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:50:15,620  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:50:15,796  INFO [main] Log4j:26 - click is done
+2019-11-19 17:50:18,803  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:51:00,822  INFO [main] config files:62 - CHROME DriverInitiated
+2019-11-19 17:51:08,204  INFO [main] Log4j:26 - Browser Maximized
+2019-11-19 17:51:08,276  INFO [main] Log4j:26 - Got title from URL
+2019-11-19 17:51:08,276  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:51:08,288  INFO [main] Log4j:26 - The value is: The Ninja Store
+2019-11-19 17:51:08,288  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:51:08,296  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:51:08,296  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:51:08,296  INFO [main] Log4j:26 - The value is: Iphone
+2019-11-19 17:51:08,300  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:51:08,584  INFO [main] Log4j:26 - Iphone is entered
+2019-11-19 17:51:08,584  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:51:09,468  INFO [main] Log4j:26 - click is done
+2019-11-19 17:51:09,468  INFO [main] Log4j:26 - Scrolls performed
+2019-11-19 17:51:09,524  INFO [main] Log4j:26 - Scroll done
+2019-11-19 17:51:09,524  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:51:13,711  INFO [main] Log4j:26 - click is done
+2019-11-19 17:51:13,711  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:51:13,711  INFO [main] Log4j:26 - The value is: 2
+2019-11-19 17:51:13,715  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:51:13,895  INFO [main] Log4j:26 - click is done
+2019-11-19 17:51:13,903  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:51:14,063  INFO [main] Log4j:26 - ? is entered
+2019-11-19 17:51:16,066  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:51:16,170  INFO [main] Log4j:26 - 2 is entered
+2019-11-19 17:51:16,170  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:51:16,262  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:51:16,266  INFO [main] Log4j:26 - The value is: Availability: In Stock
+2019-11-19 17:51:16,266  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:51:16,266  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:51:16,266  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:51:16,366  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:51:16,366  INFO [main] Log4j:26 - The value is: iPhone is a revolutionary new mobile phone that allows you to make a call by simply tapping a name or number in your address book, a favorites list, or a call log. It also automatically syncs all your contacts from a PC, Mac, or Internet service. And it lets you select and listen to voicemail messages in whatever order you want just like email.
+2019-11-19 17:51:16,366  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:51:16,366  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:51:16,366  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:51:16,454  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:51:16,458  INFO [main] Log4j:26 - The value is: $123.20
+2019-11-19 17:51:16,458  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:51:16,458  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:51:16,458  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:51:16,542  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:51:16,546  INFO [main] Log4j:26 - The value is: Ex Tax: $101.00
+2019-11-19 17:51:16,546  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:51:16,546  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:51:16,546  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:51:16,722  INFO [main] Log4j:26 - click is done
+2019-11-19 17:51:16,722  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:51:16,882  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:51:16,882  INFO [main] Log4j:26 - The value is: MacBook Air
+2019-11-19 17:51:16,886  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:51:17,190  INFO [main] Log4j:26 - MacBook Air is entered
+2019-11-19 17:51:17,190  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:51:18,394  INFO [main] Log4j:26 - click is done
+2019-11-19 17:51:18,394  INFO [main] Log4j:26 - Scrolls performed
+2019-11-19 17:51:18,426  INFO [main] Log4j:26 - Scroll done
+2019-11-19 17:51:18,426  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:51:20,513  INFO [main] Log4j:26 - click is done
+2019-11-19 17:51:20,513  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:51:20,513  INFO [main] Log4j:26 - The value is: 3
+2019-11-19 17:51:20,517  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:51:20,705  INFO [main] Log4j:26 - click is done
+2019-11-19 17:51:20,705  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:51:20,805  INFO [main] Log4j:26 - ? is entered
+2019-11-19 17:51:22,809  INFO [main] Log4j:26 - Entering text into text box
+2019-11-19 17:51:22,889  INFO [main] Log4j:26 - 3 is entered
+2019-11-19 17:51:22,889  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:51:22,961  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:51:22,961  INFO [main] Log4j:26 - The value is: Availability: In Stock
+2019-11-19 17:51:22,961  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:51:22,961  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:51:22,961  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:51:23,037  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:51:23,037  INFO [main] Log4j:26 - The value is: MacBook Air is ultrathin, ultraportable, and ultra unlike anything else. But you don’t lose inches and pounds overnight. It’s the result of rethinking conventions. Of multiple wireless innovations. And of breakthrough design. With MacBook Air, mobile computing suddenly has a new standard.
+2019-11-19 17:51:23,037  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:51:23,037  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:51:23,037  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:51:23,105  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:51:23,109  INFO [main] Log4j:26 - The value is: $1,202.00
+2019-11-19 17:51:23,109  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:51:23,109  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:51:23,109  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:51:23,173  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:51:23,173  INFO [main] Log4j:26 - The value is: Ex Tax: $1,000.00
+2019-11-19 17:51:23,173  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:51:23,173  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:51:23,173  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:51:23,316  INFO [main] Log4j:26 - click is done
+2019-11-19 17:51:23,316  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:51:24,268  INFO [main] Log4j:26 - click is done
+2019-11-19 17:51:24,268  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:51:24,408  INFO [main] Log4j:26 - click is done
+2019-11-19 17:51:28,415  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:51:28,495  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:51:28,495  INFO [main] Log4j:26 - The value is: $3,852.40
+2019-11-19 17:51:28,499  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:51:28,499  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:51:28,499  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:51:28,570  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:51:28,570  INFO [main] Log4j:26 - The value is: $3,606.00
+2019-11-19 17:51:28,570  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:51:28,570  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
+2019-11-19 17:51:28,570  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:51:28,746  INFO [main] Log4j:26 - click is done
+2019-11-19 17:51:31,750  INFO [main] Log4j:26 - Click is progressed
+2019-11-19 17:51:31,918  INFO [main] Log4j:26 - click is done
+2019-11-19 17:51:31,918  INFO [main] Log4j:26 -  Getting text from data
+2019-11-19 17:51:32,086  INFO [main] Log4j:26 - Getting Value from an testdata
+2019-11-19 17:51:32,086  INFO [main] Log4j:26 - The value is: $246.40
+2019-11-19 17:51:32,090  INFO [main] Log4j:26 - Assertion Starts
+2019-11-19 17:51:32,090  INFO [main] Log4j:26 - Assertion Done and the actual and expected are equal
